@@ -1343,16 +1343,6 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
-    "saiki-kusuo--yjt0416": {
-      "name": "Saiki Kusuo",
-      "spriteVersionNumber": 1,
-      "petJsonSha256": "15929d1013a5f80b324ce3cecadf0dc67715c9f83131b44219bf7dbb236e160d",
-      "petJsonBytes": 315,
-      "spritesheetSha256": "ee75082b2e00462a5707c48de0b6ab25dda7f12e8c7378a6b39e1d22612539c0",
-      "spritesheetBytes": 786444,
-      "spritesheetWidth": 1536,
-      "spritesheetHeight": 1872
-    },
     "sakamoto--zpzjzj": {
       "name": "Sakamoto",
       "spriteVersionNumber": 2,
@@ -1813,6 +1803,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "qieli--legeling": {
+      "name": "切莉",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "d6fdf9ec15a53fedea5405a975f2af21bd97615b99cef825ae60b1e2af5aad63",
+      "petJsonBytes": 225,
+      "spritesheetSha256": "b248ef22b45f0cec7b73235876cea5802959062970e43b68ac66c76e7fffea32",
+      "spritesheetBytes": 1820386,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "nangong-wan--bpup": {
       "name": "南宫婉",
       "spriteVersionNumber": 2,
@@ -1862,6 +1862,16 @@
       "spritesheetBytes": 2487140,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
+    },
+    "lumei--legeling": {
+      "name": "噜妹",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "ef6d9cc394d04dcb7c3ce5e7a3ac4b8d3dc34af64f525ee22a7c4da057607b48",
+      "petJsonBytes": 241,
+      "spritesheetSha256": "922d4084e00247ef9b683bdf00316d7ea1d4e7b6fcff12f3d7afc8bf0ee3eddc",
+      "spritesheetBytes": 2313618,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
     },
     "tuantuan--jbbom": {
       "name": "团团",
@@ -2213,6 +2223,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "little-v--legeling": {
+      "name": "电子宠物小v",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "3317aa1741b971bd1bf829d850bd9e264a396ef88b548d707bea9ecee57017bc",
+      "petJsonBytes": 245,
+      "spritesheetSha256": "d6cb0b81448a8e65a84532a269786f0f327b348d122df11d1d7e0c95ced25276",
+      "spritesheetBytes": 1678358,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "chillet--legeling": {
       "name": "疾旋鼬",
       "spriteVersionNumber": 2,
@@ -2323,6 +2343,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "cockroach--legeling": {
+      "name": "蟑螂",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "1553f7b3a17e624eea376a074dc27edea97b55b6c4318f84181b6b73c6a37941",
+      "petJsonBytes": 234,
+      "spritesheetSha256": "7d2b1668e5e154f6d8eeef74a40d459f3cf4b689eb0b41d273ec2f70491fde81",
+      "spritesheetBytes": 1556116,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "bond-forger--legeling": {
       "name": "邦德·福杰",
       "spriteVersionNumber": 2,
@@ -2360,6 +2390,16 @@
       "petJsonBytes": 219,
       "spritesheetSha256": "4140848d8c5cc7831f78d200101910ba831a63a8ad9de6f085b15bcf14bec1d0",
       "spritesheetBytes": 1810698,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "snow-emperor--legeling": {
+      "name": "雪皇",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "c8900762d6bf3828ab9e0d0b487719432968c699605936e6bc6a6b31fd35e167",
+      "petJsonBytes": 239,
+      "spritesheetSha256": "143435ca6b7ecc7e3a04690363e6066a867e866a98d71f75edfbb87ff8edceb1",
+      "spritesheetBytes": 2509704,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
