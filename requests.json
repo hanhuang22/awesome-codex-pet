@@ -1,5 +1,43 @@
 [
   {
+    "number": 185,
+    "character": "砂金（叽米的会客室系列毛绒玩偶造型）",
+    "characterDetails": "砂金（叽米的会客室系列毛绒玩偶造型）",
+    "franchise": "",
+    "category": "other",
+    "version": "v2",
+    "requestType": "",
+    "referenceStatus": "",
+    "references": "",
+    "referenceUrls": [],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "",
+    "nameLanguages": "",
+    "attribution": "",
+    "duplicateCheck": "",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "wangkefucn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20656090?v=4",
+      "url": "https://github.com/wangkefucn"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-13T12:59:41Z",
+    "updatedAt": "2026-09-13T12:59:47Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/185"
+  },
+  {
     "number": 182,
     "character": "Potato",
     "characterDetails": "Potato",
