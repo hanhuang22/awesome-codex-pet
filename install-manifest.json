@@ -173,6 +173,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "capoo--lan-kehan": {
+      "name": "Bugcat Capoo",
+      "spriteVersionNumber": 1,
+      "petJsonSha256": "d38d2bec02c1d80da35f8614f5a0e645647ede419610f4f9d79ca684d02dcaec",
+      "petJsonBytes": 228,
+      "spritesheetSha256": "3e348653060557a34b83cb2839c909218d4c830d1357f83203fb964b8b4dea0b",
+      "spritesheetBytes": 877352,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 1872
+    },
     "castorice--lingxiaotian": {
       "name": "Castorice",
       "spriteVersionNumber": 1,
