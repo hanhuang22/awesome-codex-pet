@@ -50,12 +50,31 @@ const actionOrder = [
   "failed",
 ];
 
-function actionPreviewPath(slug, action) {
+function withPreviewVersion(path, version) {
+  if (!version || !path.startsWith("/assets/previews/")) return path;
+  const separator = path.includes("?") ? "&" : "?";
+  return `${path}${separator}v=${version}`;
+}
+
+function previewVersionForSubmission(submission) {
+  const hash = submission.spritesheet_sha256;
+  return typeof hash === "string" && /^[a-f0-9]{64}$/i.test(hash)
+    ? hash.slice(0, 12).toLowerCase()
+    : "";
+}
+
+function actionPreviewPath(slug, action, version) {
   const webp = join(repoRoot, "assets", "previews", slug, "webp", `${action}.webp`);
   if (existsSync(webp)) {
-    return `/assets/previews/${slug}/webp/${action}.webp`;
+    return withPreviewVersion(
+      `/assets/previews/${slug}/webp/${action}.webp`,
+      version,
+    );
   }
-  return `/assets/previews/${slug}/gifs/${action}.gif`;
+  return withPreviewVersion(
+    `/assets/previews/${slug}/gifs/${action}.gif`,
+    version,
+  );
 }
 
 function readJson(relativePath) {
@@ -102,7 +121,7 @@ function listActionsForPet(slug) {
   });
 }
 
-function previewImageForPet(slug, submission, gifs) {
+function previewImageForPet(slug, submission, gifs, version) {
   const generatedThumbnail = join(
     repoRoot,
     "assets",
@@ -112,16 +131,27 @@ function previewImageForPet(slug, submission, gifs) {
   );
 
   if (existsSync(generatedThumbnail)) {
-    return `/assets/previews/${slug}/thumbnail.webp`;
+    return withPreviewVersion(
+      `/assets/previews/${slug}/thumbnail.webp`,
+      version,
+    );
   }
 
   return submission.preview_image
-    ? toWebPath(submission.preview_image)
-    : gifs.idle ?? `/assets/previews/${slug}/gifs/idle.gif`;
+    ? withPreviewVersion(toWebPath(submission.preview_image), version)
+    : gifs.idle ??
+        withPreviewVersion(
+          `/assets/previews/${slug}/gifs/idle.gif`,
+          version,
+        );
 }
 
-function animatedPreviewForPet(slug, gifs, previewImage) {
-  return gifs.idle ?? previewImage ?? `/assets/previews/${slug}/thumbnail.webp`;
+function animatedPreviewForPet(slug, gifs, previewImage, version) {
+  return (
+    gifs.idle ??
+    previewImage ??
+    withPreviewVersion(`/assets/previews/${slug}/thumbnail.webp`, version)
+  );
 }
 
 function resolveAuthorSlug(pet, submission) {
@@ -145,12 +175,19 @@ function resolveAuthorSlug(pet, submission) {
 const pets = readJson("pets.json").map((pet) => {
   const submission = readJson(`pets/${pet.slug}/submission.json`);
   const runtime = readJson(`pets/${pet.slug}/pet.json`);
+  const previewVersion = previewVersionForSubmission(submission);
   const actions = listActionsForPet(pet.slug);
   const gifs = Object.fromEntries(
     actions.map((action) => [
       action,
-      actionPreviewPath(pet.slug, action),
+      actionPreviewPath(pet.slug, action, previewVersion),
     ]),
+  );
+  const previewImage = previewImageForPet(
+    pet.slug,
+    submission,
+    gifs,
+    previewVersion,
   );
 
   return {
@@ -169,11 +206,12 @@ const pets = readJson("pets.json").map((pet) => {
     collections: submission.collections ?? [],
     sourceType: submission.source_type ?? "unknown",
     sourceUrl: submission.source_url ?? "",
-    previewImage: previewImageForPet(pet.slug, submission, gifs),
+    previewImage,
     animatedPreviewImage: animatedPreviewForPet(
       pet.slug,
       gifs,
-      previewImageForPet(pet.slug, submission, gifs),
+      previewImage,
+      previewVersion,
     ),
     actions,
     gifs,
