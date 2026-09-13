@@ -336,10 +336,10 @@
     "deepseek-girl--legeling": {
       "name": "DeepSeek Girl",
       "spriteVersionNumber": 2,
-      "petJsonSha256": "7c6660b8a41aa74355e1469e23521c485ab090f46c4407e22ae07cbdb56ad089",
-      "petJsonBytes": 224,
-      "spritesheetSha256": "613ade9ee1b828198b2fa8b1b4ae9c7eea8219fed0114e8c0e23ffbd9792eddc",
-      "spritesheetBytes": 2065232,
+      "petJsonSha256": "d494a1a819e22512c9f861a5d01feaee3c528cca663f72b0726dc5712921cb5e",
+      "petJsonBytes": 260,
+      "spritesheetSha256": "7f7f3f80a729772961394c56be0f4f0b1d9b7213bbe85859cb1a5316f5f51a71",
+      "spritesheetBytes": 2988472,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
