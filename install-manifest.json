@@ -53,6 +53,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "ai-pulse--wxy": {
+      "name": "AI Pulse",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "018001f238ef69fcd105fd79fed839b4de837465a0c999b2bb5b24b4f7305089",
+      "petJsonBytes": 232,
+      "spritesheetSha256": "af324e392202d579e25febb6926c3e8c28540b266ceb623ec61e48938545f211",
+      "spritesheetBytes": 2770638,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "aiko--chenxin-dlut": {
       "name": "Aiko",
       "spriteVersionNumber": 1,
@@ -1770,6 +1780,16 @@
       "petJsonBytes": 228,
       "spritesheetSha256": "ea280083afbc174f5d7ef6b1035d2c27746dbb8c3327774736efe9ef97d9d736",
       "spritesheetBytes": 2439938,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "uesugi-erii--ricardo-2005": {
+      "name": "上杉绘梨衣codex宠物",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "e3bc79eb8abdfe3968e17780cfebc260fed0e340d069eb284fdc4ddec2608aee",
+      "petJsonBytes": 236,
+      "spritesheetSha256": "584ad142250b0bf601faa876618e38468de77dd5d7cc4e149e3cad1544f4b253",
+      "spritesheetBytes": 2406306,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
