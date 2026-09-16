@@ -34,6 +34,28 @@ export function issueNumberFromSourceUrl(sourceUrl, repository) {
   return match ? Number(match[1]) : null;
 }
 
+export function submissionChangeMayCompleteRequest(file) {
+  if (!file || file.status === "removed") return false;
+  if (file.status === "added") return true;
+
+  const patch = typeof file.patch === "string" ? file.patch : "";
+  if (!patch) return true;
+
+  return patch
+    .split(/\r?\n/)
+    .filter(
+      (line) =>
+        (line.startsWith("+") || line.startsWith("-")) &&
+        !line.startsWith("+++") &&
+        !line.startsWith("---"),
+    )
+    .some(
+      (line) =>
+        /"(?:source_url|tags)"\s*:/.test(line) ||
+        line.includes("community-request"),
+    );
+}
+
 export function requestIssueNumbersFromPullRequestBody(body, repository) {
   const numbers = new Set();
   const closingKeyword = /\b(?:close[sd]?|fix(?:e[sd])?|resolve[sd]?)\b/i;

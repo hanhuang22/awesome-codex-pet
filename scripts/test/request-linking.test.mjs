@@ -7,6 +7,7 @@ import {
   issueNumberFromSourceUrl,
   requestCommitCompletionComment,
   requestIssueNumbersFromPullRequestBody,
+  submissionChangeMayCompleteRequest,
   withRequestStatus,
 } from "../request-linking.mjs";
 
@@ -23,6 +24,44 @@ test("reads a request issue from a same-repository source URL", () => {
   assert.equal(
     issueNumberFromSourceUrl("https://example.com/issues/84", repository),
     null,
+  );
+});
+
+test("only treats request-link metadata changes as direct completion candidates", () => {
+  assert.equal(
+    submissionChangeMayCompleteRequest({
+      status: "modified",
+      patch: '@@ -7 +7 @@\n-  "author": "Lingxiaotian",\n+  "author": "legeling",',
+    }),
+    false,
+  );
+  assert.equal(
+    submissionChangeMayCompleteRequest({
+      status: "modified",
+      patch:
+        '@@ -12 +12 @@\n-  "source_url": "https://example.com",\n+  "source_url": "https://github.com/legeling/awesome-codex-pet/issues/83",',
+    }),
+    true,
+  );
+  assert.equal(
+    submissionChangeMayCompleteRequest({
+      status: "modified",
+      patch:
+        '@@ -13 +13 @@\n-  "tags": ["v2"],\n+  "tags": ["v2", "community-request"],',
+    }),
+    true,
+  );
+  assert.equal(
+    submissionChangeMayCompleteRequest({ status: "added", patch: "" }),
+    true,
+  );
+  assert.equal(
+    submissionChangeMayCompleteRequest({ status: "removed", patch: "" }),
+    false,
+  );
+  assert.equal(
+    submissionChangeMayCompleteRequest({ status: "modified" }),
+    true,
   );
 });
 
