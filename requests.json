@@ -1,5 +1,509 @@
 [
   {
+    "number": 191,
+    "character": "小熊虫",
+    "characterDetails": "小熊虫（申请人使用的称呼，正式角色名尚未核实）。希望以参考图中的形象制作一只 Codex 宠物。",
+    "franchise": "",
+    "category": "other",
+    "version": "v2",
+    "requestType": "",
+    "referenceStatus": "",
+    "references": "",
+    "referenceUrls": [],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "",
+    "nameLanguages": "",
+    "attribution": "",
+    "duplicateCheck": "",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "wildcat299",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/309649651?v=4",
+      "url": "https://github.com/wildcat299"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-15T12:36:42Z",
+    "updatedAt": "2026-09-15T12:36:50Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/191"
+  },
+  {
+    "number": 190,
+    "character": "刘波儿 一只纯黑的德文卷毛猫",
+    "characterDetails": "刘波儿 一只纯黑的德文卷毛猫",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/471728f489bf18f54c06f6132e8df13172106ede600ddfe80cd9fec910f37c94.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/471728f489bf18f54c06f6132e8df13172106ede600ddfe80cd9fec910f37c94.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/471728f489bf18f54c06f6132e8df13172106ede600ddfe80cd9fec910f37c94.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/471728f489bf18f54c06f6132e8df13172106ede600ddfe80cd9fec910f37c94.webp"
+    ],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-15T07:18:22Z",
+    "updatedAt": "2026-09-15T07:18:22Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/190"
+  },
+  {
+    "number": 186,
+    "character": "cherry切粒",
+    "characterDetails": "cherry切粒",
+    "franchise": "ive张元英",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/4abfad70014e66611ffb85cb9f5bc44a4a16a4de7da576b6a9ec2a2dc05cd4f0.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/4abfad70014e66611ffb85cb9f5bc44a4a16a4de7da576b6a9ec2a2dc05cd4f0.png"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/4abfad70014e66611ffb85cb9f5bc44a4a16a4de7da576b6a9ec2a2dc05cd4f0.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/4abfad70014e66611ffb85cb9f5bc44a4a16a4de7da576b6a9ec2a2dc05cd4f0.webp"
+    ],
+    "visualDirection": "想要一个默认版本不拿东西的cherry，十分感谢！",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-13T13:02:02Z",
+    "updatedAt": "2026-09-13T13:02:02Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/186"
+  },
+  {
+    "number": 185,
+    "character": "砂金（叽米的会客室系列毛绒玩偶造型）",
+    "characterDetails": "砂金（叽米的会客室系列毛绒玩偶造型）",
+    "franchise": "",
+    "category": "other",
+    "version": "v2",
+    "requestType": "",
+    "referenceStatus": "",
+    "references": "",
+    "referenceUrls": [],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "",
+    "nameLanguages": "",
+    "attribution": "",
+    "duplicateCheck": "",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "wangkefucn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20656090?v=4",
+      "url": "https://github.com/wangkefucn"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-13T12:59:41Z",
+    "updatedAt": "2026-09-13T12:59:47Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/185"
+  },
+  {
+    "number": 182,
+    "character": "Potato",
+    "characterDetails": "Potato",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.png"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.webp"
+    ],
+    "visualDirection": "POTATO",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-13T08:26:06Z",
+    "updatedAt": "2026-09-13T10:46:32Z",
+    "closedAt": null,
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/182"
+  },
+  {
+    "number": 181,
+    "character": "大鼠",
+    "characterDetails": "大鼠",
+    "franchise": "大鼠与美叽",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/3a2970c9f761c0e26baa9f62133d608218886fb0210b23d740e1bdd404b8b195.webp",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/3a2970c9f761c0e26baa9f62133d608218886fb0210b23d740e1bdd404b8b195.webp"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/3a2970c9f761c0e26baa9f62133d608218886fb0210b23d740e1bdd404b8b195.webp"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/3a2970c9f761c0e26baa9f62133d608218886fb0210b23d740e1bdd404b8b195.webp"
+    ],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-13T05:53:26Z",
+    "updatedAt": "2026-09-13T05:53:26Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/181"
+  },
+  {
+    "number": 179,
+    "character": "我的小橘猫",
+    "characterDetails": "我的小橘猫",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/46d7da82112fd562d2061d19aa454237364263c2d4794ae2b878c9eddab788b2.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/46d7da82112fd562d2061d19aa454237364263c2d4794ae2b878c9eddab788b2.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/46d7da82112fd562d2061d19aa454237364263c2d4794ae2b878c9eddab788b2.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/46d7da82112fd562d2061d19aa454237364263c2d4794ae2b878c9eddab788b2.webp"
+    ],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-12T06:04:28Z",
+    "updatedAt": "2026-09-12T06:04:28Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/179"
+  },
+  {
+    "number": 178,
+    "character": "塑心：阿尔图罗",
+    "characterDetails": "塑心：阿尔图罗",
+    "franchise": "明日方舟",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/dd66bf154aada2855d885627259599a148f13c37836ed848fd8f4ac8e81e31bb.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/dd66bf154aada2855d885627259599a148f13c37836ed848fd8f4ac8e81e31bb.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/dd66bf154aada2855d885627259599a148f13c37836ed848fd8f4ac8e81e31bb.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/dd66bf154aada2855d885627259599a148f13c37836ed848fd8f4ac8e81e31bb.webp"
+    ],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-11T18:28:34Z",
+    "updatedAt": "2026-09-11T18:28:34Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/178"
+  },
+  {
+    "number": 177,
+    "character": "尤诺",
+    "characterDetails": "尤诺",
+    "franchise": "鸣潮",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://wiki.kurobbs.com/mc/item/1400453856120164352",
+    "referenceUrls": ["https://wiki.kurobbs.com/mc/item/1400453856120164352"],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "可做q版",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-11T16:06:06Z",
+    "updatedAt": "2026-09-11T16:06:06Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/177"
+  },
+  {
+    "number": 176,
+    "character": "求助大佬，感谢大佬圆梦",
+    "characterDetails": "尤诺",
+    "franchise": "鸣潮",
+    "category": "other",
+    "version": "v2",
+    "requestType": "",
+    "referenceStatus": "",
+    "references": "",
+    "referenceUrls": [],
+    "referenceImages": [
+      "https://github.com/user-attachments/assets/acb45385-5285-41cd-aa8a-d46c08eab48d"
+    ],
+    "referenceThumbnails": [],
+    "visualDirection": "",
+    "nameLanguages": "",
+    "attribution": "",
+    "duplicateCheck": "",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "JiangAChen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/317743482?v=4",
+      "url": "https://github.com/JiangAChen"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-11T16:04:18Z",
+    "updatedAt": "2026-09-11T16:05:10Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/176"
+  },
+  {
+    "number": 175,
+    "character": "小黑猫",
+    "characterDetails": "小黑猫",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://uploadfile.bizhizu.cn/up/94/d1/5f/94d15ff8272722345a20abfe52084db4.jpg",
+    "referenceUrls": [
+      "https://uploadfile.bizhizu.cn/up/94/d1/5f/94d15ff8272722345a20abfe52084db4.jpg"
+    ],
+    "referenceImages": [
+      "https://uploadfile.bizhizu.cn/up/94/d1/5f/94d15ff8272722345a20abfe52084db4.jpg"
+    ],
+    "referenceThumbnails": [],
+    "visualDirection": "可爱。活泼",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-11T11:11:30Z",
+    "updatedAt": "2026-09-11T11:11:30Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/175"
+  },
+  {
+    "number": 173,
+    "character": "flying hamster unicorn",
+    "characterDetails": "flying hamster unicorn",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/d95ac27fa2e6c5bd06a38607a496a0eca75800233db0e7c23c9d3870947269a4.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/d95ac27fa2e6c5bd06a38607a496a0eca75800233db0e7c23c9d3870947269a4.png"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/d95ac27fa2e6c5bd06a38607a496a0eca75800233db0e7c23c9d3870947269a4.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/d95ac27fa2e6c5bd06a38607a496a0eca75800233db0e7c23c9d3870947269a4.webp"
+    ],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-10T23:09:34Z",
+    "updatedAt": "2026-09-10T23:09:34Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/173"
+  },
+  {
     "number": 171,
     "character": "达斯维达",
     "characterDetails": "character",
@@ -76,50 +580,6 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/169"
-  },
-  {
-    "number": 129,
-    "character": "电子宠物小v",
-    "characterDetails": "电子宠物小v",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/b0a0e2fdffa55b760751b21d7bbdf68381cee8785594a8b137877c775e8e8e69.png",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/b0a0e2fdffa55b760751b21d7bbdf68381cee8785594a8b137877c775e8e8e69.png"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/b0a0e2fdffa55b760751b21d7bbdf68381cee8785594a8b137877c775e8e8e69.png"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/b0a0e2fdffa55b760751b21d7bbdf68381cee8785594a8b137877c775e8e8e69.webp"
-    ],
-    "visualDirection": "Let the community maker decide.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-18T09:05:24Z",
-    "updatedAt": "2026-09-08T11:43:49Z",
-    "closedAt": null,
-    "comments": 1,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/129"
   },
   {
     "number": 160,
@@ -592,94 +1052,6 @@
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/145"
   },
   {
-    "number": 142,
-    "character": "噜妹",
-    "characterDetails": "噜妹",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/100210149a03bace4df2b4b6533b057ff721cfd3c198bd455bb8470b3646eaa4.png",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/100210149a03bace4df2b4b6533b057ff721cfd3c198bd455bb8470b3646eaa4.png"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/100210149a03bace4df2b4b6533b057ff721cfd3c198bd455bb8470b3646eaa4.png"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/100210149a03bace4df2b4b6533b057ff721cfd3c198bd455bb8470b3646eaa4.webp"
-    ],
-    "visualDirection": "Let the community maker decide.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-25T07:24:22Z",
-    "updatedAt": "2026-08-25T16:06:35Z",
-    "closedAt": null,
-    "comments": 1,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/142"
-  },
-  {
-    "number": 143,
-    "character": "原神-雪皇",
-    "characterDetails": "原神-雪皇",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/f8f23bb056a5cc453da32f4fe0803acb5a42ca1cca140890e4c026a86349dc0b.png",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/f8f23bb056a5cc453da32f4fe0803acb5a42ca1cca140890e4c026a86349dc0b.png"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/f8f23bb056a5cc453da32f4fe0803acb5a42ca1cca140890e4c026a86349dc0b.png"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/f8f23bb056a5cc453da32f4fe0803acb5a42ca1cca140890e4c026a86349dc0b.webp"
-    ],
-    "visualDirection": "希望画风能够尽可能贴近原图",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-25T11:37:01Z",
-    "updatedAt": "2026-08-25T11:37:01Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/143"
-  },
-  {
     "number": 130,
     "character": "Spider-man",
     "characterDetails": "Spider-man",
@@ -848,50 +1220,6 @@
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/115"
   },
   {
-    "number": 114,
-    "character": "切莉",
-    "characterDetails": "切莉",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/9fdff44458f02544c364e06ee49fd5bdaec89715876052d4489488b935db63a7.jpg",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/9fdff44458f02544c364e06ee49fd5bdaec89715876052d4489488b935db63a7.jpg"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/9fdff44458f02544c364e06ee49fd5bdaec89715876052d4489488b935db63a7.jpg"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/9fdff44458f02544c364e06ee49fd5bdaec89715876052d4489488b935db63a7.webp"
-    ],
-    "visualDirection": "Let the community maker decide.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-10T16:11:38Z",
-    "updatedAt": "2026-08-10T16:11:38Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/114"
-  },
-  {
     "number": 112,
     "character": "紫灵",
     "characterDetails": "紫灵",
@@ -930,50 +1258,6 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/112"
-  },
-  {
-    "number": 110,
-    "character": "蟑螂",
-    "characterDetails": "蟑螂",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/ef376057c6d2c7bf624c7a55d296caa69007b30378e2d7d8cb21c5a565eac104.png",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/ef376057c6d2c7bf624c7a55d296caa69007b30378e2d7d8cb21c5a565eac104.png"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/ef376057c6d2c7bf624c7a55d296caa69007b30378e2d7d8cb21c5a565eac104.png"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/ef376057c6d2c7bf624c7a55d296caa69007b30378e2d7d8cb21c5a565eac104.webp"
-    ],
-    "visualDirection": "能爬",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-10T07:19:28Z",
-    "updatedAt": "2026-08-10T07:19:28Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/110"
   },
   {
     "number": 101,
@@ -1062,6 +1346,308 @@
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/91"
   },
   {
+    "number": 83,
+    "character": "deepseek娘",
+    "characterDetails": "deepseek娘",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "No reference supplied yet.",
+    "referenceUrls": [],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: completed",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-04T03:31:43Z",
+    "updatedAt": "2026-09-13T15:29:23Z",
+    "closedAt": "2026-08-25T02:56:57Z",
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/83"
+  },
+  {
+    "number": 123,
+    "character": "焰灵姬",
+    "characterDetails": "焰灵姬",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/de75665e236c326bfd89448829746b1b38e74c340f05358362565220d2482f13.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/de75665e236c326bfd89448829746b1b38e74c340f05358362565220d2482f13.png"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/de75665e236c326bfd89448829746b1b38e74c340f05358362565220d2482f13.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/de75665e236c326bfd89448829746b1b38e74c340f05358362565220d2482f13.webp"
+    ],
+    "visualDirection": "待机：缓慢呼吸，身体轻微左右摆动；眨眼；手扶腰；长发和披风小幅摆动。\n优雅行走：小步交叉走，步幅窄，身体保持直立，胯部轻微摆动；披风和长发滞后摆动。\n向左/向右移动：采用滑步，不要跨大步；身体略微前倾，脚尖朝移动方向。\n挥手：抬起右手，手腕轻转，手指做慢速勾动，然后自然放回发丝旁。\n跳跃：轻盈小跳并旋身半圈，披风向外展开；落地时保持优雅站姿。\n等待：一手扶腰，一手轻触下巴，头部微微歪向一侧，露出询问表情。\n工作中：双手靠近胸前，身体微微前倾，像是在凝聚火焰；不要真的添加漂浮火球。\n检查/阅读：头部轻歪，目光向下再抬起，手指轻触唇边。\n失败：肩膀下沉，身体略微侧转，眼神失落；披风自然垂下，不要加哭脸或红叉。\n统一要求：\n动作幅度小、节奏慢、重心稳定。\n不要大跨步、快速甩发、动作残影、速度线、地面阴影。\n保持长发、披风、腿部和手指连续，不穿模。\n重点突出“妩媚回眸、轻微摆胯、窄步行走、披风延迟摆动”。",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: completed",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-15T10:35:29Z",
+    "updatedAt": "2026-09-13T14:31:26Z",
+    "closedAt": "2026-08-18T03:35:38Z",
+    "comments": 7,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/123"
+  },
+  {
+    "number": 114,
+    "character": "切莉",
+    "characterDetails": "切莉",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/9fdff44458f02544c364e06ee49fd5bdaec89715876052d4489488b935db63a7.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/9fdff44458f02544c364e06ee49fd5bdaec89715876052d4489488b935db63a7.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/9fdff44458f02544c364e06ee49fd5bdaec89715876052d4489488b935db63a7.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/9fdff44458f02544c364e06ee49fd5bdaec89715876052d4489488b935db63a7.webp"
+    ],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-10T16:11:38Z",
+    "updatedAt": "2026-09-13T08:45:22Z",
+    "closedAt": "2026-09-13T08:45:22Z",
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/114"
+  },
+  {
+    "number": 143,
+    "character": "原神-雪皇",
+    "characterDetails": "原神-雪皇",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/f8f23bb056a5cc453da32f4fe0803acb5a42ca1cca140890e4c026a86349dc0b.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/f8f23bb056a5cc453da32f4fe0803acb5a42ca1cca140890e4c026a86349dc0b.png"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/f8f23bb056a5cc453da32f4fe0803acb5a42ca1cca140890e4c026a86349dc0b.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/f8f23bb056a5cc453da32f4fe0803acb5a42ca1cca140890e4c026a86349dc0b.webp"
+    ],
+    "visualDirection": "希望画风能够尽可能贴近原图",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-25T11:37:01Z",
+    "updatedAt": "2026-09-13T08:45:21Z",
+    "closedAt": "2026-09-13T08:45:21Z",
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/143"
+  },
+  {
+    "number": 129,
+    "character": "电子宠物小v",
+    "characterDetails": "电子宠物小v",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/b0a0e2fdffa55b760751b21d7bbdf68381cee8785594a8b137877c775e8e8e69.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/b0a0e2fdffa55b760751b21d7bbdf68381cee8785594a8b137877c775e8e8e69.png"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/b0a0e2fdffa55b760751b21d7bbdf68381cee8785594a8b137877c775e8e8e69.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/b0a0e2fdffa55b760751b21d7bbdf68381cee8785594a8b137877c775e8e8e69.webp"
+    ],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-18T09:05:24Z",
+    "updatedAt": "2026-09-13T08:45:21Z",
+    "closedAt": "2026-09-13T08:45:21Z",
+    "comments": 2,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/129"
+  },
+  {
+    "number": 110,
+    "character": "蟑螂",
+    "characterDetails": "蟑螂",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/ef376057c6d2c7bf624c7a55d296caa69007b30378e2d7d8cb21c5a565eac104.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/ef376057c6d2c7bf624c7a55d296caa69007b30378e2d7d8cb21c5a565eac104.png"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/ef376057c6d2c7bf624c7a55d296caa69007b30378e2d7d8cb21c5a565eac104.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/ef376057c6d2c7bf624c7a55d296caa69007b30378e2d7d8cb21c5a565eac104.webp"
+    ],
+    "visualDirection": "能爬",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-10T07:19:28Z",
+    "updatedAt": "2026-09-13T08:45:21Z",
+    "closedAt": "2026-09-13T08:45:21Z",
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/110"
+  },
+  {
+    "number": 142,
+    "character": "噜妹",
+    "characterDetails": "噜妹",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/100210149a03bace4df2b4b6533b057ff721cfd3c198bd455bb8470b3646eaa4.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/100210149a03bace4df2b4b6533b057ff721cfd3c198bd455bb8470b3646eaa4.png"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/100210149a03bace4df2b4b6533b057ff721cfd3c198bd455bb8470b3646eaa4.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/100210149a03bace4df2b4b6533b057ff721cfd3c198bd455bb8470b3646eaa4.webp"
+    ],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-25T07:24:22Z",
+    "updatedAt": "2026-09-13T08:45:20Z",
+    "closedAt": "2026-09-13T08:45:20Z",
+    "comments": 2,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/142"
+  },
+  {
     "number": 89,
     "character": "斗地主老农民",
     "characterDetails": "斗地主老农民",
@@ -1102,50 +1688,6 @@
     "comments": 2,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/89"
-  },
-  {
-    "number": 123,
-    "character": "焰灵姬",
-    "characterDetails": "焰灵姬",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/de75665e236c326bfd89448829746b1b38e74c340f05358362565220d2482f13.png",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/de75665e236c326bfd89448829746b1b38e74c340f05358362565220d2482f13.png"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/de75665e236c326bfd89448829746b1b38e74c340f05358362565220d2482f13.png"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/de75665e236c326bfd89448829746b1b38e74c340f05358362565220d2482f13.webp"
-    ],
-    "visualDirection": "待机：缓慢呼吸，身体轻微左右摆动；眨眼；手扶腰；长发和披风小幅摆动。\n优雅行走：小步交叉走，步幅窄，身体保持直立，胯部轻微摆动；披风和长发滞后摆动。\n向左/向右移动：采用滑步，不要跨大步；身体略微前倾，脚尖朝移动方向。\n挥手：抬起右手，手腕轻转，手指做慢速勾动，然后自然放回发丝旁。\n跳跃：轻盈小跳并旋身半圈，披风向外展开；落地时保持优雅站姿。\n等待：一手扶腰，一手轻触下巴，头部微微歪向一侧，露出询问表情。\n工作中：双手靠近胸前，身体微微前倾，像是在凝聚火焰；不要真的添加漂浮火球。\n检查/阅读：头部轻歪，目光向下再抬起，手指轻触唇边。\n失败：肩膀下沉，身体略微侧转，眼神失落；披风自然垂下，不要加哭脸或红叉。\n统一要求：\n动作幅度小、节奏慢、重心稳定。\n不要大跨步、快速甩发、动作残影、速度线、地面阴影。\n保持长发、披风、腿部和手指连续，不穿模。\n重点突出“妩媚回眸、轻微摆胯、窄步行走、披风延迟摆动”。",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "closed",
-    "status": "completed",
-    "labels": [
-      "type: request",
-      "status: completed",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-15T10:35:29Z",
-    "updatedAt": "2026-08-28T09:32:41Z",
-    "closedAt": "2026-08-18T03:35:38Z",
-    "comments": 6,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/123"
   },
   {
     "number": 147,
@@ -1609,44 +2151,6 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/84"
-  },
-  {
-    "number": 83,
-    "character": "deepseek娘",
-    "characterDetails": "deepseek娘",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "No reference supplied yet.",
-    "referenceUrls": [],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "Let the community maker decide.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "closed",
-    "status": "completed",
-    "labels": [
-      "type: request",
-      "status: in-progress",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-04T03:31:43Z",
-    "updatedAt": "2026-08-25T02:56:57Z",
-    "closedAt": "2026-08-25T02:56:57Z",
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/83"
   },
   {
     "number": 82,

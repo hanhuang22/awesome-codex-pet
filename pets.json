@@ -62,6 +62,17 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "ai-pulse--wxy",
+    "name": "AI Pulse",
+    "localized_names": { "en": "AI Pulse", "zh": "AI Pulse" },
+    "author": "wxy",
+    "primary_category": "Robots",
+    "canonical_key": "original/wxy/ai-pulse",
+    "collections": [],
+    "license": "Non-commercial personal use only; redistribution and derivatives require permission.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "aiko--chenxin-dlut",
     "name": "Aiko",
     "localized_names": { "en": "Aiko", "zh": "爱子" },
@@ -207,6 +218,20 @@
     "primary_category": "Animals",
     "collections": ["animal-companions"],
     "license": "MIT License",
+    "spriteVersionNumber": 1
+  },
+  {
+    "slug": "capoo--lan-kehan",
+    "name": "Bugcat Capoo",
+    "localized_names": { "en": "Bugcat Capoo", "zh": "猫猫虫咖波" },
+    "author": "lan-kehan",
+    "author_handle": "lan-kehan",
+    "author_url": "https://github.com/lan-kehan",
+    "primary_category": "Mascots",
+    "canonical_key": "fictional/bugcat-capoo/capoo",
+    "collections": [],
+    "license": "Non-commercial use only. Bugcat Capoo character rights and trademarks remain with their respective owners.",
+    "description": "An independently AI-generated Codex pet inspired by the blue six-legged Bugcat Capoo character; official reference pixels are not included.",
     "spriteVersionNumber": 1
   },
   {
@@ -2205,6 +2230,19 @@
     "collections": [],
     "license": "Independent AI-generated community interpretation; non-commercial use only. Commercial use is prohibited.",
     "description": "An independent v2 community interpretation of March 7th from Honkai: Star Rail, with nine task animations and sixteen clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "uesugi-erii--ricardo-2005",
+    "name": "上杉绘梨衣codex宠物",
+    "author": "Ricardo-2005",
+    "author_handle": "Ricardo-2005",
+    "author_url": "https://github.com/Ricardo-2005",
+    "primary_category": "Anime Characters",
+    "canonical_key": "dragon-raja/uesugi-erii",
+    "collections": [],
+    "license": "CC BY-NC 4.0；仅限非商业使用。非官方 AI 同人作品，不代表或暗示获得原作品权利方授权；角色及商标权利归其权利人所有。",
+    "description": "上杉绘梨衣的非官方 AI 同人 Codex 桌面宠物，包含完整的 v2 动画与 16 个观察方向。",
     "spriteVersionNumber": 2
   },
   {

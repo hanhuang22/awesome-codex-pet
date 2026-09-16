@@ -95,7 +95,7 @@ npx wrangler pages deploy out --project-name=awesome-codex-pet
 - **Preview delivery**: cards load a static thumbnail first and fetch animation on hover or keyboard focus; the top three pet rankings animate automatically while lower pet rows and contributor/collection mosaics animate on interaction; detail pages keep the complete action set
 - **Request crafting**: the primary request action opens a complete Codex task directly; its adjacent menu keeps explicit prompt-copy and manual pull-request fallbacks.
 - **Consent-based stars**: successful AI-assisted installation and submission prompts may ask once whether the user wants to star the repository. They may perform the action only after explicit consent; refusal or silence never affects the workflow.
-- **Caching**: Next.js build metadata is cached in CI; hashed browser JavaScript uses a one-year immutable cache, preview assets use a seven-day cache, and read-only JSON catalogs use short browser/CDN TTLs. The bundle check rejects missing cache-header rules.
+- **Caching**: Next.js build metadata is cached in CI; hashed browser JavaScript uses a one-year immutable cache, preview assets use a seven-day cache with a stable spritesheet-hash query so replacements bypass stale CDN entries, and read-only JSON catalogs use short browser/CDN TTLs. The bundle check rejects missing cache-header rules.
 
 ### Static JSON edge cache
 
