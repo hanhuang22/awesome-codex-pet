@@ -373,6 +373,20 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "deepseek-whalechan--qimi": {
+      "name": "DeepSeek Whalechan",
+      "localizedNames": {
+        "en": "DeepSeek Whalechan",
+        "zh": "蓝色大肥鱼·Q版女仆"
+      },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "e532eabdada51624868d7416ead5ffb09f1af881080787161c91e3b814e4b74e",
+      "petJsonBytes": 265,
+      "spritesheetSha256": "f44e16e58c4a20a2717824df8f1f2d9f11f684717cad68083656bba955c5e680",
+      "spritesheetBytes": 2865702,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "desk-otter--zihualiu1997": {
       "name": "Desk Otter",
       "spriteVersionNumber": 1,

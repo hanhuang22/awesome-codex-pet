@@ -432,6 +432,24 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "deepseek-whalechan--qimi",
+    "name": "DeepSeek Whalechan",
+    "localized_names": {
+      "en": "DeepSeek Whalechan",
+      "zh": "蓝色大肥鱼·Q版女仆"
+    },
+    "author": "qimi",
+    "author_handle": "qishichuan",
+    "author_url": "https://github.com/qishichuan",
+    "primary_category": "Others",
+    "canonical_key": "brand/deepseek/deepseek-girl",
+    "variant_note": "An independent qimi variant of the existing DeepSeek whale-girl entry: a super-deformed blue maid design with a notebook/ChatGPT mark and a distinct running row whose row1 frames are mirrored from row2. The spritesheet is independently generated and byte-distinct from the existing entry.",
+    "collections": [],
+    "license": "Independent AI-generated community interpretation; non-commercial use only. Commercial use is prohibited.",
+    "description": "A super-deformed blue whale-maid community pet with a notebook, whale fins and tail, nine task animations, and sixteen clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "desk-otter--zihualiu1997",
     "name": "Desk Otter",
     "author": "zihualiu1997",
