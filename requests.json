@@ -1,23 +1,27 @@
 [
   {
-    "number": 192,
+    "number": 193,
     "character": "ELBER",
     "characterDetails": "ELBER",
-    "franchise": "LIGHTS ARE OFF (YouTube)",
+    "franchise": "Not provided",
     "category": "other",
     "version": "v2",
-    "requestType": "",
+    "requestType": "Create a new community interpretation",
     "referenceStatus": "",
-    "references": "",
-    "referenceUrls": [],
-    "referenceImages": [
-      "https://github.com/user-attachments/assets/6a54e69d-8191-430b-9af5-128a2e7e238c"
+    "references": "https://api.codexpet.top/uploads/reference/references/6e47754211249580881f4aa379e254eaceeb825aa85ef8ea0a114b4d38efbe91.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/6e47754211249580881f4aa379e254eaceeb825aa85ef8ea0a114b4d38efbe91.png"
     ],
-    "referenceThumbnails": [],
-    "visualDirection": "",
-    "nameLanguages": "",
-    "attribution": "",
-    "duplicateCheck": "",
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/6e47754211249580881f4aa379e254eaceeb825aa85ef8ea0a114b4d38efbe91.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/6e47754211249580881f4aa379e254eaceeb825aa85ef8ea0a114b4d38efbe91.webp"
+    ],
+    "visualDirection": "E.L.B.E.R.R. (Epistemic Logic-Based Engine for Recursive Reasoning) from the YouTube series “I Made a Self-Aware Robot” by Lights Are Off. A tall, extremely thin experimental humanoid robot with exposed mechanical parts, wires, cables and articulated limbs. It has a smooth pale oval head, two enormous glossy black eyes and an unsettling wide toothy grin. Keep its recognizable original appearance and creepy robotic design. Its personality is intelligent, curious, observant, mischievous and slightly unsettling, but it behaves like a strange AI pet. It likes watching what I do, exploring its environment, silently observing, making unexpected movements and interacting with objects around it. It should feel like a self-aware experimental robot that somehow became my personal companion. Dark cinematic workshop atmosphere, realistic mechanical details, mysterious and eerie but not aggressive.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
     "state": "open",
     "status": "triage",
     "labels": [
@@ -27,17 +31,17 @@
       "category: other"
     ],
     "author": {
-      "login": "albertepshtein5-beep",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/277777840?v=4",
-      "url": "https://github.com/albertepshtein5-beep"
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
     },
     "assignees": [],
-    "createdAt": "2026-09-16T08:27:19Z",
-    "updatedAt": "2026-09-16T08:27:28Z",
+    "createdAt": "2026-09-16T08:29:14Z",
+    "updatedAt": "2026-09-16T08:29:14Z",
     "closedAt": null,
     "comments": 0,
     "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/192"
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/193"
   },
   {
     "number": 191,
@@ -1384,6 +1388,46 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/91"
+  },
+  {
+    "number": 192,
+    "character": "ELBER",
+    "characterDetails": "ELBER",
+    "franchise": "LIGHTS ARE OFF (YouTube)",
+    "category": "other",
+    "version": "v2",
+    "requestType": "",
+    "referenceStatus": "",
+    "references": "",
+    "referenceUrls": [],
+    "referenceImages": [
+      "https://github.com/user-attachments/assets/6a54e69d-8191-430b-9af5-128a2e7e238c"
+    ],
+    "referenceThumbnails": [],
+    "visualDirection": "",
+    "nameLanguages": "",
+    "attribution": "",
+    "duplicateCheck": "",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "albertepshtein5-beep",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/277777840?v=4",
+      "url": "https://github.com/albertepshtein5-beep"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-16T08:27:19Z",
+    "updatedAt": "2026-09-16T08:30:03Z",
+    "closedAt": "2026-09-16T08:30:03Z",
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/192"
   },
   {
     "number": 83,
