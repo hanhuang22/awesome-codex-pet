@@ -1,5 +1,45 @@
 [
   {
+    "number": 192,
+    "character": "ELBER",
+    "characterDetails": "ELBER",
+    "franchise": "LIGHTS ARE OFF (YouTube)",
+    "category": "other",
+    "version": "v2",
+    "requestType": "",
+    "referenceStatus": "",
+    "references": "",
+    "referenceUrls": [],
+    "referenceImages": [
+      "https://github.com/user-attachments/assets/6a54e69d-8191-430b-9af5-128a2e7e238c"
+    ],
+    "referenceThumbnails": [],
+    "visualDirection": "",
+    "nameLanguages": "",
+    "attribution": "",
+    "duplicateCheck": "",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "albertepshtein5-beep",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/277777840?v=4",
+      "url": "https://github.com/albertepshtein5-beep"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-16T08:27:19Z",
+    "updatedAt": "2026-09-16T08:27:28Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/192"
+  },
+  {
     "number": 191,
     "character": "小熊虫",
     "characterDetails": "小熊虫（申请人使用的称呼，正式角色名尚未核实）。希望以参考图中的形象制作一只 Codex 宠物。",
