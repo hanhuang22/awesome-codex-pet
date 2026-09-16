@@ -5,6 +5,7 @@
   "pets": {
     "firefly--lingxiaotian": {
       "name": "Firefly",
+      "localizedNames": { "en": "Firefly", "zh": "流萤" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "b4c0f329c086f22876a8a6074c1468ba00a1593a4f4ccb9427744525f4bc90da",
       "petJsonBytes": 240,
@@ -15,6 +16,7 @@
     },
     "zero-two--mingqingmozhao": {
       "name": "02",
+      "localizedNames": { "en": "Zero Two", "zh": "02" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "8ea5b358dabe24f7be7ec1e10e497000f3bf064da1c4e215a98bdb2d8c38f10e",
       "petJsonBytes": 212,
@@ -25,6 +27,7 @@
     },
     "acheron--lingxiaotian": {
       "name": "Acheron",
+      "localizedNames": { "en": "Acheron", "zh": "黄泉" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "f6c7c941ca422408ff884bcc72de29571123f02b87bad9965d3d8cc22f6b91da",
       "petJsonBytes": 276,
@@ -55,6 +58,7 @@
     },
     "aiko--chenxin-dlut": {
       "name": "Aiko",
+      "localizedNames": { "en": "Aiko", "zh": "爱子" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "6ab63f9093209038ad1335aee94370276e5f42e7acfec15703d2fb7885e07c27",
       "petJsonBytes": 255,
@@ -65,6 +69,7 @@
     },
     "anya--chenxin-dlut": {
       "name": "Anya",
+      "localizedNames": { "en": "Anya", "zh": "阿尼亚" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "1bf07e33861d30671c57afb5d09a684cf5f8e1afe74805754251a643c3285f51",
       "petJsonBytes": 223,
@@ -85,6 +90,7 @@
     },
     "arlecchino--lingxiaotian": {
       "name": "Arlecchino",
+      "localizedNames": { "en": "Arlecchino", "zh": "阿蕾奇诺" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "a459ad038ab553165746b38419a121aae815b69647b066b45c75021782fef871",
       "petJsonBytes": 300,
@@ -95,6 +101,7 @@
     },
     "asuka--maxg24": {
       "name": "Asuka",
+      "localizedNames": { "en": "Asuka", "zh": "明日香" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "fbbffe72c605f2462e7bf3c9ef1d7c6195f26d4e0e265fc784dc4cf445c396d8",
       "petJsonBytes": 216,
@@ -135,6 +142,7 @@
     },
     "black-swan--lingxiaotian": {
       "name": "Black Swan",
+      "localizedNames": { "en": "Black Swan", "zh": "黑天鹅" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "e065962e78b52df86aab25ca59d2a49bb84b6038ea67b1703175539f7a5b9877",
       "petJsonBytes": 306,
@@ -145,6 +153,7 @@
     },
     "blazer-god--sou2c1": {
       "name": "Blazer God",
+      "localizedNames": { "en": "Blazer God", "zh": "煌炎战神" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "3cb1746231b0af14dc0ee0f4651f143a0eb19e6704cc37ab0c6f338a257ed7f4",
       "petJsonBytes": 285,
@@ -175,6 +184,7 @@
     },
     "castorice--lingxiaotian": {
       "name": "Castorice",
+      "localizedNames": { "en": "Castorice", "zh": "遐蝶" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "a6b54321043c716ed5f857e8e478e7a328223861771ef2557c7f0c83de9a55a1",
       "petJsonBytes": 269,
@@ -185,6 +195,7 @@
     },
     "chen--chenxin-dlut": {
       "name": "Chen",
+      "localizedNames": { "en": "Ch'en", "zh": "陈" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "f2594eb731a41fe073b14f362064ae2094d5ac6729c9057832cde4233829d329",
       "petJsonBytes": 252,
@@ -195,6 +206,7 @@
     },
     "chibi-rei-pet--bendy": {
       "name": "Chibi Rei Pet",
+      "localizedNames": { "en": "Rei Ayanami", "zh": "绫波丽" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "8b8b3e85381ac6de79d27e56db9a555dd4cfb85fce3ee56b3307e608b5a8d927",
       "petJsonBytes": 290,
@@ -235,6 +247,7 @@
     },
     "citlali--zaytsevzy": {
       "name": "Citlali",
+      "localizedNames": { "en": "Citlali", "zh": "茜特菈莉" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "e1b6e3d2e5088f8031a39492600f0367480898b46204a0287d03cb29261ecfca",
       "petJsonBytes": 196,
@@ -265,6 +278,7 @@
     },
     "codexy--z19t": {
       "name": "Codexy",
+      "localizedNames": { "en": "Codexy", "zh": "码灵" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "a554689c28c1f009aa23cca665709deaad738f917bc493e8683bcd9db8d412c9",
       "petJsonBytes": 258,
@@ -275,6 +289,7 @@
     },
     "conan--chenxin-dlut": {
       "name": "Conan",
+      "localizedNames": { "en": "Conan Edogawa", "zh": "江户川柯南" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "f1c50e7f4cdb71f7f118920ecfd0e5807aad55bbc5cae3bc18798ebdb4f2a954",
       "petJsonBytes": 255,
@@ -295,6 +310,7 @@
     },
     "crt-monitor--wxy": {
       "name": "CRT Monitor",
+      "localizedNames": { "en": "CRT Monitor", "zh": "CRT 显示器" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "4c06c79fc615a0cf477b84cc2b2dbc2b640bae1a27691a1ab437b7e5fcdb8f15",
       "petJsonBytes": 209,
@@ -305,6 +321,7 @@
     },
     "cyrene--lingxiaotian": {
       "name": "Cyrene",
+      "localizedNames": { "en": "Cyrene", "zh": "昔涟" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "c960d1925e328eea03cb9bfe1357a61fd877205495a0926dce4efa29fca7329e",
       "petJsonBytes": 320,
@@ -325,11 +342,12 @@
     },
     "deepseek-girl--legeling": {
       "name": "DeepSeek Girl",
+      "localizedNames": { "en": "DeepSeek Girl", "zh": "DeepSeek 娘" },
       "spriteVersionNumber": 2,
-      "petJsonSha256": "7c6660b8a41aa74355e1469e23521c485ab090f46c4407e22ae07cbdb56ad089",
-      "petJsonBytes": 224,
-      "spritesheetSha256": "613ade9ee1b828198b2fa8b1b4ae9c7eea8219fed0114e8c0e23ffbd9792eddc",
-      "spritesheetBytes": 2065232,
+      "petJsonSha256": "d494a1a819e22512c9f861a5d01feaee3c528cca663f72b0726dc5712921cb5e",
+      "petJsonBytes": 260,
+      "spritesheetSha256": "7f7f3f80a729772961394c56be0f4f0b1d9b7213bbe85859cb1a5316f5f51a71",
+      "spritesheetBytes": 2988472,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
@@ -385,6 +403,7 @@
     },
     "doraemon--xueshi": {
       "name": "Doraemon",
+      "localizedNames": { "en": "Doraemon", "zh": "哆啦A梦" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "d408aa1c147f0c68919d61b97aa7784c917b2976f394031796787e3b4db39a57",
       "petJsonBytes": 257,
@@ -395,6 +414,7 @@
     },
     "doro--lingxiaotian": {
       "name": "Doro",
+      "localizedNames": { "en": "Doro", "zh": "桃乐丝（Doro）" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "ea7e83e420d0a3c511531652bebdec748a47d38e59bbeaede11dd8f04fe08202",
       "petJsonBytes": 242,
@@ -405,6 +425,7 @@
     },
     "doro--vaevie": {
       "name": "Doro",
+      "localizedNames": { "en": "Doro", "zh": "桃乐丝（Doro）" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "6742216710f7a0afe0405138f4d80772c98b81f65f6c37970988f5fb11dcd8ee",
       "petJsonBytes": 223,
@@ -415,6 +436,7 @@
     },
     "drill-cat--qimi": {
       "name": "Drill Cat",
+      "localizedNames": { "en": "Drill Cat", "zh": "电钻咪" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "cc1c96fa2a68450556a6a7f03bad2e185b919651d5550f96e8c980a0dd9bf0a4",
       "petJsonBytes": 218,
@@ -435,6 +457,7 @@
     },
     "elaina--nyakku-shigure": {
       "name": "Elaina",
+      "localizedNames": { "en": "Elaina", "zh": "伊蕾娜" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "852bd7dfadac92f79fb9b2ca7b893855c10e644dea4df041466b1a2f692f75fd",
       "petJsonBytes": 265,
@@ -455,6 +478,7 @@
     },
     "eren--ash-sw": {
       "name": "Eren",
+      "localizedNames": { "en": "Eren", "zh": "艾伦" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "584387bfd0ce04dc6305eb5a9ebd741e6fed2cc906c30d69d55139630dda990e",
       "petJsonBytes": 226,
@@ -465,6 +489,7 @@
     },
     "fang-yuan--kelleszzz": {
       "name": "Fang Yuan",
+      "localizedNames": { "en": "Fang Yuan", "zh": "方源" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "00023cf08c1a95d7a374772be306e88b3ffff1e95ff6d86760137bf73074a5d0",
       "petJsonBytes": 289,
@@ -475,6 +500,7 @@
     },
     "feixiao--lingxiaotian": {
       "name": "Feixiao",
+      "localizedNames": { "en": "Feixiao", "zh": "飞霄" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "777eefc8792b02f9bfeea15f6729448bf6bac4bedbcb916cc4dbc3abc24b29b1",
       "petJsonBytes": 360,
@@ -505,6 +531,7 @@
     },
     "frieren--lingxiaotian": {
       "name": "Frieren",
+      "localizedNames": { "en": "Frieren", "zh": "芙莉莲" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "ffea97a06f003c84d017e6ec68c22bac2f9dee0e5f3b9538ebdd5c4c54498685",
       "petJsonBytes": 203,
@@ -515,6 +542,7 @@
     },
     "furina--lingxiaotian": {
       "name": "Furina",
+      "localizedNames": { "en": "Furina", "zh": "芙宁娜" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "f7b82e5214e53bb2672c1d9e0070d32e985c89a8bd6faa76e505ff2fa89d13da",
       "petJsonBytes": 348,
@@ -525,6 +553,7 @@
     },
     "ganyu--chenxin-dlut": {
       "name": "Ganyu",
+      "localizedNames": { "en": "Ganyu", "zh": "甘雨" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "fa3950a60f4040e0f0dfe6418144930fcf0fcafcf56017aed14ddc077821ffed",
       "petJsonBytes": 196,
@@ -535,6 +564,7 @@
     },
     "zhuzhuxia--ryde-play": {
       "name": "GG Bond",
+      "localizedNames": { "en": "GG Bond", "zh": "猪猪侠" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "f9cb878811d45fafbc3c6ba08a209c88391b64e43079f81d9c0a21aa78ce2cef",
       "petJsonBytes": 267,
@@ -555,6 +585,7 @@
     },
     "gojo--lilokhalikfa": {
       "name": "Gojo",
+      "localizedNames": { "en": "Gojo", "zh": "五条悟" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "0235971d2ecc213ec32dc878103c7c7d03c9b905f1550d0c49d4895c0661cdd0",
       "petJsonBytes": 232,
@@ -585,6 +616,7 @@
     },
     "hami--tat": {
       "name": "Hami",
+      "localizedNames": { "en": "Hami", "zh": "哈基米" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "420c2800130af644ccce2f9de87637c2284929cdf1d18c93a1875c5e3fdd94ed",
       "petJsonBytes": 239,
@@ -605,6 +637,7 @@
     },
     "han-li--metro186": {
       "name": "Han Li",
+      "localizedNames": { "en": "Han Li", "zh": "韩立·结婴" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "c2c5d275cd6232775f218f9dd3233677fe2f8b286c22811449597597c9fec40c",
       "petJsonBytes": 230,
@@ -625,6 +658,7 @@
     },
     "hu-tao--lingxiaotian": {
       "name": "Hu Tao",
+      "localizedNames": { "en": "Hu Tao", "zh": "胡桃" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "ae57b3d36dda65e9dd092fdd8e09adea1c59c55b9b1dce3b97aa9bf7cb04689e",
       "petJsonBytes": 284,
@@ -635,6 +669,7 @@
     },
     "hyacine--kurisu": {
       "name": "Hyacine",
+      "localizedNames": { "en": "Hyacine", "zh": "风堇" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "6f395d6a804b1845e0135e9fd1e56fcfdbc407faf1d4e19da5389ef91e57b300",
       "petJsonBytes": 312,
@@ -645,6 +680,7 @@
     },
     "ikaros--icarus-alpha": {
       "name": "Ikaros",
+      "localizedNames": { "en": "Ikaros", "zh": "伊卡洛斯" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "314a7790a1ffb29889c8d81f795b2666583711e95e02b379cc06750be697f7f8",
       "petJsonBytes": 362,
@@ -685,6 +721,7 @@
     },
     "jesse-the-fox--itjesse": {
       "name": "JesseTheFox",
+      "localizedNames": { "en": "JesseTheFox", "zh": "阿博" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "352dab21f5ee859aae167efb664c6554dae329e448cd0a005957547e5727c42f",
       "petJsonBytes": 300,
@@ -715,6 +752,7 @@
     },
     "jolyne-cujoh--d2682787206-sys": {
       "name": "Jolyne Cujoh",
+      "localizedNames": { "en": "Jolyne Cujoh", "zh": "徐伦" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "f085cf0d9d1ff27ec71cdb8496bbe3d0f079919847b9def39d9089ba99b88dec",
       "petJsonBytes": 266,
@@ -725,6 +763,7 @@
     },
     "kaguya-luna--enclairfarron": {
       "name": "Kaguya Luna",
+      "localizedNames": { "en": "Kaguya Luna", "zh": "辉夜姬" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "3c62e0f72d0f00360015ae2f8ed42c0bd17af8ffa5d48aa1adb4d78c52e95fc9",
       "petJsonBytes": 320,
@@ -735,6 +774,7 @@
     },
     "kaiju-no-8--terry878": {
       "name": "Kaiju No. 8",
+      "localizedNames": { "en": "Kaiju No. 8", "zh": "怪獸8號" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "d145144a88f71243f8b08340a432f81a40dc38fac4fb53771c695dbd789ee1c9",
       "petJsonBytes": 326,
@@ -745,6 +785,7 @@
     },
     "kamisato-ayaka--lingxiaotian": {
       "name": "Kamisato Ayaka",
+      "localizedNames": { "en": "Kamisato Ayaka", "zh": "神里绫华" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "2aa4a56f1ad29d6e9342c700ebbde1dc692f611a83a4d7c7c154b1abf0c30c47",
       "petJsonBytes": 277,
@@ -765,6 +806,7 @@
     },
     "kid--chenxin-dlut": {
       "name": "Kid",
+      "localizedNames": { "en": "Kaito Kid", "zh": "怪盗基德" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "56774afac6f73da1ab66574c7e599a87b30cf3a07a6d1dacd449b5d4b0023d59",
       "petJsonBytes": 286,
@@ -775,6 +817,7 @@
     },
     "kid-goku--julianhuang": {
       "name": "Kid Goku",
+      "localizedNames": { "en": "Kid Goku", "zh": "小悟空" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "b1a67232ee711f7f79d78ae39e272465f966852ebf77a1459b8baf546c988f05",
       "petJsonBytes": 231,
@@ -805,6 +848,7 @@
     },
     "klee--chenxin-dlut": {
       "name": "Klee",
+      "localizedNames": { "en": "Klee", "zh": "可莉" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "e905ebde6168be6aa2c1015949d8972e8fdd10b863cfa600218bd7d4cfd0643a",
       "petJsonBytes": 225,
@@ -815,6 +859,7 @@
     },
     "klee-desk--ayanxu56-boop": {
       "name": "KleeDesk",
+      "localizedNames": { "en": "KleeDesk", "zh": "可莉·书桌版" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "6264b1f5c6679d92616ba21ec65269b44793e026b505655c1b43cdfb2a4a201c",
       "petJsonBytes": 259,
@@ -825,6 +870,7 @@
     },
     "kuro-chibi--kuroneko-night": {
       "name": "Kuro Chibi",
+      "localizedNames": { "en": "Kuro Chibi", "zh": "Kuro Q版" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "58d25aae38c409a946cb01556d19ba0bc21e0c848c5fe696b14e2d49f761477b",
       "petJsonBytes": 283,
@@ -835,6 +881,7 @@
     },
     "lappland--chenxin-dlut": {
       "name": "Lappland",
+      "localizedNames": { "en": "Lappland", "zh": "拉普兰德" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "b26cc88933c165b4ca6df64aa639fcdcdba7549cb3f62403117305cb69ce9f56",
       "petJsonBytes": 274,
@@ -845,6 +892,7 @@
     },
     "levi--emrecb": {
       "name": "Levi",
+      "localizedNames": { "en": "Levi", "zh": "利威尔" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "170fbaa0d57750810aeafd7456a8565fa0fe4196e9efa5dbf644e1606a69e18d",
       "petJsonBytes": 213,
@@ -905,6 +953,7 @@
     },
     "luffy-gear-5--jordsshmords1": {
       "name": "Luffy Gear 5",
+      "localizedNames": { "en": "Luffy Gear 5", "zh": "五档路飞" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "49b0da734788a3d44801d19e3898d1e91616bf9199aa26623e28eb1b18f01214",
       "petJsonBytes": 276,
@@ -925,6 +974,7 @@
     },
     "lumei--dagwbl": {
       "name": "Lumei",
+      "localizedNames": { "en": "Lumei", "zh": "噜妹" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "afeb3a74a7fc28759de5d0d7596eb526d71086e937f61a25a228a3e2218c5e7a",
       "petJsonBytes": 265,
@@ -945,6 +995,7 @@
     },
     "mahiro--lingxiaotian": {
       "name": "Mahiro",
+      "localizedNames": { "en": "Mahiro", "zh": "绪山真寻" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "0cdcb22fad17ef520f4da1c68140d85a4e1ab336a2bc3b9912547de78ff49712",
       "petJsonBytes": 233,
@@ -965,6 +1016,7 @@
     },
     "makima-coat--yuyuabc1": {
       "name": "Makima (Coat)",
+      "localizedNames": { "en": "Makima (Coat)", "zh": "玛奇玛（外套）" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "ca92ecb937702157c24e2dd0d825aa697e3cee3e6f41ac6986c556e89281a9a8",
       "petJsonBytes": 306,
@@ -975,6 +1027,7 @@
     },
     "makimamini--1sh1ro": {
       "name": "MakimaMini",
+      "localizedNames": { "en": "Makima", "zh": "玛奇玛" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "ebf4bdc72a5da390579feaa09ebe2c2d42d8934a39214d9e557fdf55b3479a2e",
       "petJsonBytes": 273,
@@ -985,6 +1038,7 @@
     },
     "makisekurisu--m1gr4ine": {
       "name": "Makise Kurisu",
+      "localizedNames": { "en": "Makise Kurisu", "zh": "牧濑红莉栖" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "a32ef72c993332fd84aeeecb2f257d31e8a17c13325ea15409bcbafd4268a8f0",
       "petJsonBytes": 309,
@@ -995,6 +1049,7 @@
     },
     "march-7th--chenxin-dlut": {
       "name": "March 7th",
+      "localizedNames": { "en": "March 7th", "zh": "三月七" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "496bf119300bf2237d0c3af6490b90f85e1ac51421dcd4e1b6889564d15c34ad",
       "petJsonBytes": 277,
@@ -1005,6 +1060,7 @@
     },
     "marisa-kirisame--eigentom": {
       "name": "Marisa Kirisame",
+      "localizedNames": { "en": "Marisa Kirisame", "zh": "雾雨魔理沙" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "57760a9e99bd8e7c1a8f599c73b087da1cb960f096f9357d0ecb32b5c3d99f4a",
       "petJsonBytes": 215,
@@ -1045,6 +1101,7 @@
     },
     "mikoto--lingxiaotian": {
       "name": "Mikoto",
+      "localizedNames": { "en": "Mikoto", "zh": "御坂美琴" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "8b9ac0760ff2469f70d150c136d7697a3e787fa8b313d0cff036b74327347319",
       "petJsonBytes": 205,
@@ -1055,6 +1112,7 @@
     },
     "miku--lingxiaotian": {
       "name": "Miku",
+      "localizedNames": { "en": "Miku", "zh": "初音未来" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "0c46518485de90a79dadba4a2b7d27c7c944c7c6399b2f3bb0a9279360fb6a1b",
       "petJsonBytes": 203,
@@ -1085,6 +1143,7 @@
     },
     "misaka-network--ldl1234": {
       "name": "Misaka Network",
+      "localizedNames": { "en": "Misaka Network", "zh": "御坂网络" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "5c9792309db625ac2d4e240f4194a01bfbed09e5879d0129e596723675f1abed",
       "petJsonBytes": 349,
@@ -1105,6 +1164,7 @@
     },
     "miyabi--eric-terminal": {
       "name": "Miyabi",
+      "localizedNames": { "en": "Miyabi", "zh": "星见雅" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "e33d729cb2341feea625f8035f0974d2642055ee0a830c0479f80430aab57dc8",
       "petJsonBytes": 296,
@@ -1125,6 +1185,7 @@
     },
     "nahida--lingxiaotian": {
       "name": "Nahida",
+      "localizedNames": { "en": "Nahida", "zh": "纳西妲" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "ceef1511c477a9cb41e3043aa6948687b57aeb996e18cd61f4db19a73dd8df5a",
       "petJsonBytes": 257,
@@ -1135,6 +1196,7 @@
     },
     "navia--lingxiaotian": {
       "name": "Navia",
+      "localizedNames": { "en": "Navia", "zh": "娜维娅" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "1ffadbdeca0598eca998bedd8672c6ec972f854cc3f687c37b23b4c838e7bf8a",
       "petJsonBytes": 289,
@@ -1155,6 +1217,7 @@
     },
     "nimbus--soraberu": {
       "name": "Nimbus",
+      "localizedNames": { "en": "Nimbus", "zh": "筋斗云悟空" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "217ffc34392ac45b69f49dd130d09c1568d3ce76a532f397ef4b864459d411b4",
       "petJsonBytes": 210,
@@ -1175,6 +1238,7 @@
     },
     "paimon--lingxiaotian": {
       "name": "Paimon",
+      "localizedNames": { "en": "Paimon", "zh": "派蒙" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "226f46babaa65eafdb676ee3c6454f145dfe0375ae6666c4fd22b2cf23840759",
       "petJsonBytes": 215,
@@ -1195,6 +1259,7 @@
     },
     "phoebe--chenxin-dlut": {
       "name": "Phoebe",
+      "localizedNames": { "en": "Phoebe", "zh": "菲比" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "8c953aa560aee972772d501a3e62658bfdf79bf3238f03b89a31d36b6ae80a51",
       "petJsonBytes": 318,
@@ -1225,6 +1290,7 @@
     },
     "raiden-shogun--lingxiaotian": {
       "name": "Raiden Shogun",
+      "localizedNames": { "en": "Raiden Shogun", "zh": "雷电将军" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "71a7c863f63d6a113ab9dcfde679fa699f51134b9e99a52e1e396da7a38d7f69",
       "petJsonBytes": 294,
@@ -1235,6 +1301,7 @@
     },
     "reimu--lingxiaotian": {
       "name": "Reimu",
+      "localizedNames": { "en": "Reimu", "zh": "博丽灵梦" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "adfd7c75c0b552a49e4a051a0d9d235039d1fd9025402a6b7870b92e4d557cbf",
       "petJsonBytes": 210,
@@ -1245,6 +1312,7 @@
     },
     "rem--l1": {
       "name": "Rem",
+      "localizedNames": { "en": "Rem", "zh": "蕾姆" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "6c7ae151fd38668e19818b2d5c4234f626425b4297c75c4b7634adbef6c2395f",
       "petJsonBytes": 286,
@@ -1255,6 +1323,10 @@
     },
     "remielle-dan--erlla": {
       "name": "Remielle-Dan / Leimi",
+      "localizedNames": {
+        "en": "Remielle-Dan / Leimi",
+        "zh": "蕾米埃尔·丹 / 蕾米"
+      },
       "spriteVersionNumber": 2,
       "petJsonSha256": "339045a640c09616299fa6297602768954588ff8582a83cbc39a64ea131d9fab",
       "petJsonBytes": 227,
@@ -1275,6 +1347,7 @@
     },
     "robin--lingxiaotian": {
       "name": "Robin",
+      "localizedNames": { "en": "Robin", "zh": "知更鸟" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "ee558728b96d8964ba39dcb59f0dfe85d12d55672a89d562c9681a6fdacc4ff2",
       "petJsonBytes": 301,
@@ -1295,6 +1368,7 @@
     },
     "rosmontis--flovst": {
       "name": "Rosmontis",
+      "localizedNames": { "en": "Rosmontis", "zh": "迷迭香" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "5e8a26a77d9e3ab4fb0511cc14194b097c0e87739eacba8162a4ac576c53a23f",
       "petJsonBytes": 235,
@@ -1315,6 +1389,7 @@
     },
     "ruan-mei--lingxiaotian": {
       "name": "Ruan Mei",
+      "localizedNames": { "en": "Ruan Mei", "zh": "阮·梅" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "7fcb0faa669a57d405467fe82aea35d297be10de17dac9e616fa805f9f3ecefe",
       "petJsonBytes": 357,
@@ -1335,6 +1410,7 @@
     },
     "saber--petdex-zhenyou-ling": {
       "name": "Saber",
+      "localizedNames": { "en": "Saber", "zh": "阿尔托莉雅" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "261bf22ba6df319055b372729207e24231e2e13714f63a79a3442467efa0a853",
       "petJsonBytes": 185,
@@ -1343,18 +1419,9 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
-    "saiki-kusuo--yjt0416": {
-      "name": "Saiki Kusuo",
-      "spriteVersionNumber": 1,
-      "petJsonSha256": "15929d1013a5f80b324ce3cecadf0dc67715c9f83131b44219bf7dbb236e160d",
-      "petJsonBytes": 315,
-      "spritesheetSha256": "ee75082b2e00462a5707c48de0b6ab25dda7f12e8c7378a6b39e1d22612539c0",
-      "spritesheetBytes": 786444,
-      "spritesheetWidth": 1536,
-      "spritesheetHeight": 1872
-    },
     "sakamoto--zpzjzj": {
       "name": "Sakamoto",
+      "localizedNames": { "en": "Sakamoto", "zh": "阪本" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "f1a8e2de80292866a409cf15260d39973adfe3ee19590fc99c0e3c93f6b2dcc2",
       "petJsonBytes": 284,
@@ -1365,6 +1432,7 @@
     },
     "gintoki-pixel--yuu-m": {
       "name": "Sakata Gintoki",
+      "localizedNames": { "en": "Sakata Gintoki", "zh": "坂田银时" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "c67a79ba7a8e38e9b30efcd4d5855da6e1434311903b67fd07d10de8c1732540",
       "petJsonBytes": 243,
@@ -1385,6 +1453,7 @@
     },
     "miu-meo--lemon-z": {
       "name": "SalaryCat",
+      "localizedNames": { "en": "SalaryCat", "zh": "月薪喵" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "c06f286667caa1e57b3262e0bdb28935bd3f76581083f4be745312980e197a9c",
       "petJsonBytes": 276,
@@ -1395,6 +1464,7 @@
     },
     "salary-cat--zuochunjie": {
       "name": "SalaryCat",
+      "localizedNames": { "en": "SalaryCat", "zh": "月薪喵" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "5041d39063e284b1f16f1edc6d43659f4757a43973f801dfb03a1df4be43932f",
       "petJsonBytes": 261,
@@ -1415,6 +1485,7 @@
     },
     "shaun--ryde-play": {
       "name": "Shaun the Sheep",
+      "localizedNames": { "en": "Shaun the Sheep", "zh": "小羊肖恩" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "3b34a996793879aad1b0c263dbd9bb599cb4a1e903d004e7496a1662787fd40a",
       "petJsonBytes": 265,
@@ -1435,6 +1506,7 @@
     },
     "shinchan--chenxin-dlut": {
       "name": "Shinchan",
+      "localizedNames": { "en": "Shin-chan", "zh": "野原新之助" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "e28e305b4a7c357f9c3bdc0bb503793793fb22b74cf7edd63829ac3bc18153ec",
       "petJsonBytes": 248,
@@ -1445,6 +1517,7 @@
     },
     "silver-wolf--lingxiaotian": {
       "name": "Silver Wolf",
+      "localizedNames": { "en": "Silver Wolf", "zh": "银狼" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "f395110b81abe9178a76f159aba4c1037487b89c969ef9e6ce6c28739d138179",
       "petJsonBytes": 310,
@@ -1455,6 +1528,7 @@
     },
     "sleepwing--lttxzmj": {
       "name": "Sleepwing",
+      "localizedNames": { "en": "Sleepwing", "zh": "眠翼鸟" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "7ff21bf1b6ae551ff7bb561589351e2ba480a165803d8f969ef5b3263da6843c",
       "petJsonBytes": 253,
@@ -1465,6 +1539,7 @@
     },
     "sonetto--chenxin-dlut": {
       "name": "Sonetto",
+      "localizedNames": { "en": "Sonetto", "zh": "十四行诗" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "a580a45930da9c1acf8a0abc616e1da3bd8f680c94307a9bd2e09c195b34df6b",
       "petJsonBytes": 268,
@@ -1475,6 +1550,7 @@
     },
     "sparkle--lingxiaotian": {
       "name": "Sparkle",
+      "localizedNames": { "en": "Sparkle", "zh": "花火" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "fe0cb61ea77de3e2b86fd032931853e8a34183af1990e3d2317015b0a4eb7bf9",
       "petJsonBytes": 255,
@@ -1505,6 +1581,7 @@
     },
     "sunny-retriever--legeling": {
       "name": "Sunny Retriever",
+      "localizedNames": { "en": "Sunny Retriever", "zh": "暖阳金毛" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "b56175e95b4dc762d10e7e86e4364f9b209554ff8a68ebf9a94a677f9a862b04",
       "petJsonBytes": 295,
@@ -1515,6 +1592,7 @@
     },
     "susuta--xiangzi529": {
       "name": "Susuta",
+      "localizedNames": { "en": "Susuta", "zh": "羞羞獭" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "149c696c014d3ee2014e9ce9dbbed068f7f5455f34cf087b693701985a487c20",
       "petJsonBytes": 261,
@@ -1535,6 +1613,7 @@
     },
     "takamatsu-tomori--a1wace-dev": {
       "name": "Takamatsu Tomori",
+      "localizedNames": { "en": "Takamatsu Tomori", "zh": "高松灯" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "286dc746c4daf70c5c61d6d4e3bb90ee2c17bb4568ce86ebeb27e060dc2c6296",
       "petJsonBytes": 328,
@@ -1565,6 +1644,7 @@
     },
     "templar-knight--jorge-cuevas90003": {
       "name": "Templar Knight",
+      "localizedNames": { "en": "Templar Knight", "zh": "圣殿骑士" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "fe599d17031d474e5cb9b639819ae8d2ae699dff5d46af2568b291bf3cc394fd",
       "petJsonBytes": 332,
@@ -1585,6 +1665,7 @@
     },
     "tingyun--lingxiaotian": {
       "name": "Tingyun",
+      "localizedNames": { "en": "Tingyun", "zh": "停云" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "7df6937a9213786e640cf0f2e7e3f7415df49dec85667f507dd38135f27d0ad0",
       "petJsonBytes": 306,
@@ -1605,6 +1686,7 @@
     },
     "togawa-sakiko--enclairfarron": {
       "name": "Togawa Sakiko",
+      "localizedNames": { "en": "Togawa Sakiko", "zh": "丰川祥子" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "6f4fff345d5d5e2dfbe61bbebe21e872508019bb2d2ea2b82125d937fb563dfd",
       "petJsonBytes": 266,
@@ -1625,6 +1707,7 @@
     },
     "toyama-kasumi--lsmd23": {
       "name": "Toyama Kasumi",
+      "localizedNames": { "en": "Toyama Kasumi", "zh": "户山香澄" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "151ff00cb2105fffc57e15f41365a52816d77d65b61041591fe1ce42b19bdd85",
       "petJsonBytes": 284,
@@ -1635,6 +1718,7 @@
     },
     "vertin--chenxin-dlut": {
       "name": "Vertin",
+      "localizedNames": { "en": "Vertin", "zh": "维尔汀" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "cbd2db6a05405421dfa2e69fd1d3051e9c8e9ce467f5c3c79142586ca026b9c3",
       "petJsonBytes": 246,
@@ -1645,6 +1729,7 @@
     },
     "violet--lazenca": {
       "name": "Violet",
+      "localizedNames": { "en": "Violet", "zh": "薇尔莉特" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "4a4016154c8331882e9cc9e3d35f28c0cad3450842218f09d5a41f91da6c0fdf",
       "petJsonBytes": 278,
@@ -1655,6 +1740,7 @@
     },
     "wakaba-mutsumi--carambola": {
       "name": "Wakaba Mutsumi",
+      "localizedNames": { "en": "Wakaba Mutsumi", "zh": "若叶睦" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "41e6d947dbbebf8cc0f98c5b88834e26a0751e95fca13cf0b35622fc2c161109",
       "petJsonBytes": 332,
@@ -1705,6 +1791,7 @@
     },
     "yoimiya--chenxin-dlut": {
       "name": "Yoimiya",
+      "localizedNames": { "en": "Yoimiya", "zh": "宵宫" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "4bf35f101fd322ac2509fb3d7ea93ba11ace489457376dda722de0b690d7637c",
       "petJsonBytes": 271,
@@ -1745,6 +1832,7 @@
     },
     "zani--chenxin-dlut": {
       "name": "Zani",
+      "localizedNames": { "en": "Zani", "zh": "赞妮" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "5879ac5049ae52b4ac59c7bb0c833b32e160661f20e2c9332cd07400e1f48d4d",
       "petJsonBytes": 321,
@@ -1755,6 +1843,7 @@
     },
     "zhengyin--noonwake": {
       "name": "Zhengyin",
+      "localizedNames": { "en": "Zhengyin", "zh": "正音" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "fbd842404401dba677d1441cdb7e97522a64d079e11e4a14cc76f535dcefe829",
       "petJsonBytes": 235,
@@ -1765,6 +1854,7 @@
     },
     "march-7th--legeling": {
       "name": "三月七",
+      "localizedNames": { "en": "March 7th", "zh": "三月七" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "31b5f39d26f9cd43fe215b832a94ff08f262ae0beca6a72bb3894c6d0a2dbc1c",
       "petJsonBytes": 228,
@@ -1785,6 +1875,7 @@
     },
     "inosuke-hashibira--wangfan002": {
       "name": "伊之助 Q版 丰富动作",
+      "localizedNames": { "en": "Inosuke Hashibira", "zh": "嘴平伊之助" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "a298fdd88bc0caba1970726f40e66bdce4ed159830c3a00dcacab6df01dffad0",
       "petJsonBytes": 270,
@@ -1805,6 +1896,7 @@
     },
     "yae-miko--legeling": {
       "name": "八重神子",
+      "localizedNames": { "en": "Yae Miko", "zh": "八重神子" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "0a7c90a359525a741cd63dc84dd0feb6fa7eb2145a7c65c347e8021d483e4218",
       "petJsonBytes": 334,
@@ -1813,8 +1905,20 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "qieli--legeling": {
+      "name": "切莉",
+      "localizedNames": { "en": "Qieli", "zh": "切莉" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "d6fdf9ec15a53fedea5405a975f2af21bd97615b99cef825ae60b1e2af5aad63",
+      "petJsonBytes": 225,
+      "spritesheetSha256": "b248ef22b45f0cec7b73235876cea5802959062970e43b68ac66c76e7fffea32",
+      "spritesheetBytes": 1820386,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "nangong-wan--bpup": {
       "name": "南宫婉",
+      "localizedNames": { "en": "Nangong Wan", "zh": "南宫婉" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "2cbd219d481196b40a36f6b6a03506e2b207764e71e587556103a918d01827df",
       "petJsonBytes": 419,
@@ -1855,6 +1959,7 @@
     },
     "zenitsu-agatsuma--wangfan002": {
       "name": "善逸 Q版 丰富动作",
+      "localizedNames": { "en": "Zenitsu Agatsuma", "zh": "我妻善逸" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "c190380a8ec46e2379d7554100f28e3c511cacd17b3bab0e948ea008a823f270",
       "petJsonBytes": 265,
@@ -1862,6 +1967,17 @@
       "spritesheetBytes": 2487140,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
+    },
+    "lumei--legeling": {
+      "name": "噜妹",
+      "localizedNames": { "en": "Lumei", "zh": "噜妹" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "ef6d9cc394d04dcb7c3ce5e7a3ac4b8d3dc34af64f525ee22a7c4da057607b48",
+      "petJsonBytes": 241,
+      "spritesheetSha256": "922d4084e00247ef9b683bdf00316d7ea1d4e7b6fcff12f3d7afc8bf0ee3eddc",
+      "spritesheetBytes": 2313618,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
     },
     "tuantuan--jbbom": {
       "name": "团团",
@@ -1915,6 +2031,7 @@
     },
     "giyu-tomioka--wangfan002": {
       "name": "富冈义勇 Q版 丰富动作",
+      "localizedNames": { "en": "Giyu Tomioka", "zh": "富冈义勇" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "b7addf00ed0df37facc234c43400609f27355c2fe75c87fdf560d68e29d6a35c",
       "petJsonBytes": 251,
@@ -1975,6 +2092,7 @@
     },
     "kuromi--legeling": {
       "name": "库洛米",
+      "localizedNames": { "en": "Kuromi", "zh": "库洛米" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "597a80a45854349e6b126300ec7c84e256b517855672623e788bf470cdc6b58b",
       "petJsonBytes": 278,
@@ -1985,6 +2103,7 @@
     },
     "wukong--jorge-cuevas90003": {
       "name": "悟空",
+      "localizedNames": { "en": "Wukong", "zh": "悟空" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "3c78d74bd2cd3b447c05d1656fea59c42995ca301a95b39e2b8c0a8fbbd6177b",
       "petJsonBytes": 298,
@@ -1995,6 +2114,7 @@
     },
     "wo-de-dao-dun--legeling": {
       "name": "我的刀盾",
+      "localizedNames": { "en": "Wo De Dao Dun", "zh": "我的刀盾" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "a1eb3678874671762afbca205bb34ea57309bfe1aad426ef2ef5d73933f5d783",
       "petJsonBytes": 266,
@@ -2025,6 +2145,10 @@
     },
     "new-covenant-exusiai--chenxin-dlut": {
       "name": "新约能天使",
+      "localizedNames": {
+        "en": "Exusiai the New Covenant",
+        "zh": "新约能天使"
+      },
       "spriteVersionNumber": 1,
       "petJsonSha256": "2c986d4947ea7b10e62a7b506087d55d83ce193cbb00ee28a0df49557aac7eb1",
       "petJsonBytes": 297,
@@ -2045,6 +2169,7 @@
     },
     "muichiro-tokito--wangfan002": {
       "name": "时透无一郎 Q版 空灵动作",
+      "localizedNames": { "en": "Muichiro Tokito", "zh": "时透无一郎" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "42c95a432afd6b95c85c76105518f0b6a84b62aba6b7133fac29c641a194e9c9",
       "petJsonBytes": 278,
@@ -2055,6 +2180,7 @@
     },
     "xingxingren--legeling": {
       "name": "星星人",
+      "localizedNames": { "en": "Star Person", "zh": "星星人" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "86d834562e3119c77d11a1efb8de8e9f413d4ce9221cd2ca95046b4b7c0dd1d1",
       "petJsonBytes": 263,
@@ -2065,6 +2191,7 @@
     },
     "regulus-star-antimony--chenxin-dlut": {
       "name": "星锑",
+      "localizedNames": { "en": "Regulus", "zh": "星锑" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "aee673eb6e7dbc4b5e9fa70ee5ddc0357459ef73d05218be8bf4390b9dd46bc8",
       "petJsonBytes": 352,
@@ -2145,6 +2272,7 @@
     },
     "izumi-konata--legeling": {
       "name": "泉此方",
+      "localizedNames": { "en": "Izumi Konata", "zh": "泉此方" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "218abffd8cea4d1c80d1e0d8b64c035e5c7aa1246e12bab30c9a47867992423c",
       "petJsonBytes": 234,
@@ -2155,6 +2283,7 @@
     },
     "tanjiro-kamado--wangfan002": {
       "name": "炭治郎 Q版 丰富动作",
+      "localizedNames": { "en": "Tanjiro Kamado", "zh": "灶门炭治郎" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "68f4b17264f8c3f9159de019cfa6d63adef5a46a457f3ff072523ba1d35db0d6",
       "petJsonBytes": 264,
@@ -2165,6 +2294,7 @@
     },
     "yanlingji--jorge-cuevas90003": {
       "name": "焰灵姬",
+      "localizedNames": { "en": "Yan Lingji", "zh": "焰灵姬" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "b9afbd3922f95458f4ea8e6034fb46540f104aa3aec230562092053e3553c40b",
       "petJsonBytes": 398,
@@ -2195,6 +2325,7 @@
     },
     "niulaima--ryde-play": {
       "name": "牛来妈",
+      "localizedNames": { "en": "Niulai's Mom", "zh": "牛来妈" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "5ae2758afc539010ac57a90497296b021d8e41e5ed22184a2f75a6f5115656f2",
       "petJsonBytes": 251,
@@ -2205,6 +2336,7 @@
     },
     "yao-true-self-hertz--legeling": {
       "name": "瑶-真我赫兹",
+      "localizedNames": { "en": "Yao: True Self Hertz", "zh": "瑶-真我赫兹" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "722a4b1eb19943d3909df583c8fc65546fce0e50d953d68654e00057aa1202c4",
       "petJsonBytes": 234,
@@ -2213,8 +2345,20 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "little-v--legeling": {
+      "name": "电子宠物小v",
+      "localizedNames": { "en": "Little V", "zh": "电子宠物小v" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "3317aa1741b971bd1bf829d850bd9e264a396ef88b548d707bea9ecee57017bc",
+      "petJsonBytes": 245,
+      "spritesheetSha256": "d6cb0b81448a8e65a84532a269786f0f327b348d122df11d1d7e0c95ced25276",
+      "spritesheetBytes": 1678358,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "chillet--legeling": {
       "name": "疾旋鼬",
+      "localizedNames": { "en": "Chillet", "zh": "疾旋鼬" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "daf77dc9ee37208c0f5d18dd9d53d699637bcefc913c8e71a5195e19201c355c",
       "petJsonBytes": 254,
@@ -2225,6 +2369,7 @@
     },
     "nezuko-kamado--wangfan002": {
       "name": "祢豆子 Q版 丰富动作",
+      "localizedNames": { "en": "Nezuko Kamado", "zh": "灶门祢豆子" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "707c0e212465f5cca135909d45926ddac9ebe27bc352a4d031c5f41d996dec9a",
       "petJsonBytes": 259,
@@ -2305,6 +2450,7 @@
     },
     "fujiwara-chika--klmklmnb": {
       "name": "藤原千花",
+      "localizedNames": { "en": "Chika Fujiwara", "zh": "藤原千花" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "4096a54b3827f30db973046aab1f37daa1c73aa61ab21c72e7bb8cbbf4babbc7",
       "petJsonBytes": 225,
@@ -2315,6 +2461,7 @@
     },
     "shinobu-kocho--wangfan002": {
       "name": "蝴蝶忍 Q版 华丽动作",
+      "localizedNames": { "en": "Shinobu Kocho", "zh": "蝴蝶忍" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "cd3b76a4de988614907fbff33e6bdcc07ac59374f49711698b59d3b99ddf2510",
       "petJsonBytes": 274,
@@ -2323,8 +2470,20 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "cockroach--legeling": {
+      "name": "蟑螂",
+      "localizedNames": { "en": "Cockroach", "zh": "蟑螂" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "1553f7b3a17e624eea376a074dc27edea97b55b6c4318f84181b6b73c6a37941",
+      "petJsonBytes": 234,
+      "spritesheetSha256": "7d2b1668e5e154f6d8eeef74a40d459f3cf4b689eb0b41d273ec2f70491fde81",
+      "spritesheetBytes": 1556116,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "bond-forger--legeling": {
       "name": "邦德·福杰",
+      "localizedNames": { "en": "Bond Forger", "zh": "邦德·福杰" },
       "spriteVersionNumber": 2,
       "petJsonSha256": "579c8c646cef36a8254bb5e63e75c62fab7df49ce6cf2bff506ff4d0291c7638",
       "petJsonBytes": 305,
@@ -2363,6 +2522,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "snow-emperor--legeling": {
+      "name": "雪皇",
+      "localizedNames": { "en": "Snow Emperor", "zh": "雪皇" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "c8900762d6bf3828ab9e0d0b487719432968c699605936e6bc6a6b31fd35e167",
+      "petJsonBytes": 239,
+      "spritesheetSha256": "143435ca6b7ecc7e3a04690363e6066a867e866a98d71f75edfbb87ff8edceb1",
+      "spritesheetBytes": 2509704,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "han-li--legeling": {
       "name": "韩立",
       "spriteVersionNumber": 2,
@@ -2385,6 +2555,7 @@
     },
     "bocchi--lingxiaotian": {
       "name": "Bocchi",
+      "localizedNames": { "en": "Bocchi", "zh": "后藤独" },
       "spriteVersionNumber": 1,
       "petJsonSha256": "085047c6356f26f30517d06294fb0d865e0e7200afc0d7d364ad76ebdb47ae86",
       "petJsonBytes": 192,

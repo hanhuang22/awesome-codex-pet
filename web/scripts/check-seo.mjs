@@ -193,8 +193,8 @@ for (const required of [
 const chineseInstall = await readFile(join(outDir, "zh/install.html"), "utf8");
 for (const required of [
   "如何安装 Codex 小宠物",
-  "install-pet.sh",
-  "Install-CodexPet",
+  "npx --yes @legeling/codex-pet install",
+  "Node.js 20+",
   "application/ld+json",
 ]) {
   if (!chineseInstall.includes(required)) {
@@ -317,7 +317,7 @@ for (const required of [
   "how to install a Codex pet",
   "can the community make a missing character",
   "Opening the request is free",
-  "install-pet.sh",
+  "npx --yes @legeling/codex-pet install",
 ]) {
   if (!llms.includes(required)) failures.push(`llms.txt: missing ${required}`);
 }

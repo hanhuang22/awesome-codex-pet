@@ -403,7 +403,7 @@
     "canonical_key": "brand/deepseek/deepseek-girl",
     "collections": [],
     "license": "Independent AI-generated community interpretation; non-commercial use only. Commercial use is prohibited.",
-    "description": "An original v2 DeepSeek Girl community interpretation: a blue-haired research explorer with nine task animations and sixteen clockwise look directions.",
+    "description": "An original v2 DeepSeek Girl community interpretation: a blue-haired whale girl with head fins, an attached whale tail, an original deep-sea maid outfit, nine task animations, and sixteen clockwise look directions.",
     "spriteVersionNumber": 2
   },
   {
@@ -1676,21 +1676,6 @@
     "spriteVersionNumber": 1
   },
   {
-    "slug": "saiki-kusuo--yjt0416",
-    "name": "Saiki Kusuo",
-    "localized_names": { "en": "Saiki Kusuo", "zh": "齐木楠雄" },
-    "author": "yjt0416",
-    "author_handle": "yjt0416",
-    "author_url": "https://github.com/yjt0416",
-    "primary_category": "Anime Characters",
-    "canonical_key": "the-disastrous-life-of-saiki-k/saiki-kusuo",
-    "variant_note": "An independently AI-generated V1 pixel-art adaptation by yjt0416, with original sprite pixels and a custom nine-row animation set.",
-    "collections": [],
-    "license": "Non-commercial use only. Independently AI-generated fan art; Saiki Kusuo and The Disastrous Life of Saiki K. remain the property of their respective rights holders.",
-    "description": "yjt0416 independently created this unofficial V1 pixel-art fan pet of Saiki Kusuo, featuring nine standard animation rows and a clean transparent atlas for non-commercial use only.",
-    "spriteVersionNumber": 1
-  },
-  {
     "slug": "sakamoto--zpzjzj",
     "name": "Sakamoto",
     "localized_names": { "en": "Sakamoto", "zh": "阪本" },
@@ -2272,6 +2257,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "qieli--legeling",
+    "name": "切莉",
+    "localized_names": { "en": "Qieli", "zh": "切莉" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Others",
+    "canonical_key": "community-request/qieli",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A white floppy-eared cartoon rabbit with pink cherry ornaments and a blue fan.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "nangong-wan--bpup",
     "name": "南宫婉",
     "localized_names": { "en": "Nangong Wan", "zh": "南宫婉" },
@@ -2329,6 +2328,21 @@
     "collections": ["demon-slayer"],
     "license": "Source author terms; personal non-commercial use only",
     "spriteVersionNumber": 1
+  },
+  {
+    "slug": "lumei--legeling",
+    "name": "噜妹",
+    "localized_names": { "en": "Lumei", "zh": "噜妹" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Others",
+    "canonical_key": "original/dagwbl/lumei",
+    "variant_note": "A separate maintainer-directed interpretation of request #142 based on approved concept art, with independently generated v2 animation. The existing lumei--dagwbl package and its original assets remain unchanged.",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A golden companion in a pink romper and white frilled bonnet, topped with a tiny green sprout.",
+    "spriteVersionNumber": 2
   },
   {
     "slug": "tuantuan--jbbom",
@@ -2775,6 +2789,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "little-v--legeling",
+    "name": "电子宠物小v",
+    "localized_names": { "en": "Little V", "zh": "电子宠物小v" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Others",
+    "canonical_key": "community-request/little-v",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A soft cream companion with closed smiling eyes, rosy cheeks, and a small belly mark.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "chillet--legeling",
     "name": "疾旋鼬",
     "localized_names": { "en": "Chillet", "zh": "疾旋鼬" },
@@ -2910,6 +2938,20 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "cockroach--legeling",
+    "name": "蟑螂",
+    "localized_names": { "en": "Cockroach", "zh": "蟑螂" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Animals",
+    "canonical_key": "animal/cockroach",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A realistic brown cockroach with six crawling legs and two long exploring antennae.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "bond-forger--legeling",
     "name": "邦德·福杰",
     "localized_names": { "en": "Bond Forger", "zh": "邦德·福杰" },
@@ -2961,6 +3003,20 @@
     "collections": [],
     "license": "CC BY-NC 4.0；仅限非商业使用。非官方 AI 同人作品，不代表或暗示获得《碧蓝档案》权利方授权；角色及商标权利归其权利人所有。",
     "description": "以《碧蓝档案》阿罗那为灵感独立生成的 Q 版 Codex 宠物，包含九组任务动画与完整 16 方向环视动作。",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "snow-emperor--legeling",
+    "name": "雪皇",
+    "localized_names": { "en": "Snow Emperor", "zh": "雪皇" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Others",
+    "canonical_key": "community-request/snow-emperor",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A silver-haired snow monarch with a blue crown, red cape, and ice-cream-topped staff.",
     "spriteVersionNumber": 2
   },
   {

@@ -12,7 +12,7 @@
 
 <a href="https://codexpet.top"><img src="./assets/cover/awesome-codex-pet-cover.png" alt="Open the Awesome Codex Pet gallery"></a>
 
-![pets: 239](https://img.shields.io/badge/pets-239-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
+![pets: 243](https://img.shields.io/badge/pets-243-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
 
 </div>
 
@@ -52,16 +52,17 @@ Both versions remain installable. Use v1 when maintaining an existing 9-row pet;
 
 ## Quick Install
 
-No clone required. Pick the script for your shell:
+Install Node.js 20+ first. No clone required. The same npm command works on every platform:
 
 ```bash
-# macOS / Linux
-curl -fsSL --proto '=https' --tlsv1.2 https://raw.githubusercontent.com/legeling/awesome-codex-pet/main/scripts/install-pet.sh | bash -s -- --raw-base https://raw.githubusercontent.com/legeling/awesome-codex-pet/main firefly--lingxiaotian
+# Node.js 20+ · macOS / Linux / Windows
+npx --yes @legeling/codex-pet install firefly--lingxiaotian
 ```
 
-```powershell
-# Windows PowerShell
-powershell -NoProfile -ExecutionPolicy Bypass -Command "iwr -UseB -MaximumRedirection 5 -TimeoutSec 120 https://raw.githubusercontent.com/legeling/awesome-codex-pet/main/scripts/install-pet.ps1 | iex; Install-CodexPet firefly--lingxiaotian -RawBase 'https://raw.githubusercontent.com/legeling/awesome-codex-pet/main'"
+[CLI: list / search / download / contribute](https://github.com/legeling/awesome-codex-pet/blob/main/docs/cli.md)
+
+```bash
+npx @legeling/codex-pet
 ```
 
 ```bash
@@ -72,7 +73,7 @@ npm run install:pet -- firefly--lingxiaotian
 List available pets:
 
 ```bash
-curl -fsSL --proto '=https' --tlsv1.2 https://raw.githubusercontent.com/legeling/awesome-codex-pet/main/scripts/install-pet.sh | bash -s -- --raw-base https://raw.githubusercontent.com/legeling/awesome-codex-pet/main --list
+npx --yes @legeling/codex-pet list
 ```
 
 Default install locations:
@@ -80,7 +81,7 @@ Default install locations:
 - macOS / Linux: `~/.codex/pets/<pet-id>/`
 - Windows: `%USERPROFILE%\.codex\pets\<pet-id>\`
 
-Set `CODEX_HOME` to override, or `AWESOME_CODEX_PET_NO_STATS=1` to opt out of anonymous install counters. Installers verify the repository manifest and SHA-256 hashes, stage files before activation, and require `--force` when replacing an existing package. For reproducible installs, replace `main` in both URL positions with an immutable commit or tag.
+Set `CODEX_HOME` to override, or `AWESOME_CODEX_PET_NO_STATS=1` to opt out of anonymous install counters. Installers verify the repository manifest and SHA-256 hashes, stage files before activation, and require `--force` when replacing an existing package. Pin the npm package version and pass `--raw-base` with an immutable repository commit for reproducible installs.
 
 ## Upgrade an Existing v1 Pet
 
@@ -102,7 +103,7 @@ The **Update** action is an AI-assisted v1-to-v2 conversion, not a download noti
 </table>
 
 <details>
-<summary>Full pet index (text only) · 239</summary>
+<summary>Full pet index (text only) · 243</summary>
 
 ### Game Characters
 
@@ -211,7 +212,6 @@ The **Update** action is an AI-assisted v1-to-v2 conversion, not a download noti
 <li><a href="./pets/rinami--siiverash">Rinami Himesaki</a> · by <a href="https://github.com/SiIverAsh">@SiIverAsh</a> · v1</li>
 <li><a href="./pets/roxy-pixel--gravity">Roxy Pixel</a> · by @gravity · v1</li>
 <li><a href="./pets/saber--petdex-zhenyou-ling">Saber</a> · by @真宵 绫. · v1</li>
-<li><a href="./pets/saiki-kusuo--yjt0416">Saiki Kusuo</a> · by <a href="https://github.com/yjt0416">@yjt0416</a> · v1</li>
 <li><a href="./pets/sakamoto--zpzjzj">Sakamoto</a> · by <a href="https://github.com/zpzjzj">@zpzjzj</a> · v2</li>
 <li><a href="./pets/gintoki-pixel--yuu-m">Sakata Gintoki</a> · by @Yuu M. · v1</li>
 <li><a href="./pets/shinchan--chenxin-dlut">Shin-chan</a> · by <a href="https://github.com/chenxin-dlut">@chenxin-dlut</a> · v1</li>
@@ -324,6 +324,7 @@ The **Update** action is an AI-assisted v1-to-v2 conversion, not a download noti
 <li><a href="./pets/capybara-lulu--jiushu">水豚噜噜</a> · by @jiushu · v1</li>
 <li><a href="./pets/niumou--jarvis-2">牛哞</a> · by @jarvis-2 · v2</li>
 <li><a href="./pets/zichao-xiong--z-kzhang">自嘲熊</a> · by @z-kzhang · v1</li>
+<li><a href="./pets/cockroach--legeling">Cockroach</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/jinmao--legeling">金毛</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/wucanrou--ch">金渐层（午餐肉）</a> · by <a href="https://github.com/huanchu0213-ui">@huanchu0213-ui</a> · v2</li>
 </ul>
@@ -387,15 +388,19 @@ The **Update** action is an AI-assisted v1-to-v2 conversion, not a download noti
 <li><a href="./pets/sylas-ravenshade--legeling">Sylas Ravenshade</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/templar-knight--jorge-cuevas90003">Templar Knight</a> · by <a href="https://github.com/Jorge-Cuevas90003">@Jorge-Cuevas90003</a> · v2</li>
 <li><a href="./pets/march-7th--legeling">March 7th</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
+<li><a href="./pets/qieli--legeling">Qieli</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
+<li><a href="./pets/lumei--legeling">Lumei</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/kuromi--legeling">Kuromi</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/wo-de-dao-dun--legeling">Wo De Dao Dun</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/xingxingren--legeling">Star Person</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/izumi-konata--legeling">Izumi Konata</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/yanlingji--jorge-cuevas90003">Yan Lingji</a> · by <a href="https://github.com/Jorge-Cuevas90003">@Jorge-Cuevas90003</a> · v2</li>
 <li><a href="./pets/yao-true-self-hertz--legeling">Yao: True Self Hertz</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
+<li><a href="./pets/little-v--legeling">Little V</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/twilight-sparkle--wuye3790">紫悦</a> · by <a href="https://github.com/WuYe3790">@WuYe3790</a> · v2</li>
 <li><a href="./pets/longying--legeling">胧萤</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/bond-forger--legeling">Bond Forger</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
+<li><a href="./pets/snow-emperor--legeling">Snow Emperor</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 </ul>
 
 </details>

@@ -11,6 +11,8 @@ import {
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
+import { npmInstallCommand } from "../../scripts/install-command.mjs";
+
 const webRoot = dirname(dirname(fileURLToPath(import.meta.url)));
 const repoRoot = join(webRoot, "..");
 const dataDir = join(webRoot, ".generated");
@@ -24,7 +26,6 @@ if (
 ) {
   throw new Error("NEXT_PUBLIC_INSTALL_REF contains unsafe characters");
 }
-const installRawBase = `https://raw.githubusercontent.com/legeling/awesome-codex-pet/${installRef}`;
 const collectionCatalog = readJson("collections.json");
 const categoryCatalog = readJson("categories.json");
 const requestCatalog = readJson("requests.json").map((request) => ({
@@ -177,8 +178,8 @@ const pets = readJson("pets.json").map((pet) => {
     ),
     actions,
     gifs,
-    installCommand: `curl -fsSL --proto '=https' --tlsv1.2 ${installRawBase}/scripts/install-pet.sh | bash -s -- --raw-base ${installRawBase} ${pet.slug}`,
-    installCommandPowerShell: `powershell -NoProfile -ExecutionPolicy Bypass -Command "iwr -UseB -MaximumRedirection 5 -TimeoutSec 120 ${installRawBase}/scripts/install-pet.ps1 | iex; Install-CodexPet ${pet.slug} -RawBase '${installRawBase}'"`,
+    installCommand: npmInstallCommand(pet.slug, installRef),
+    installCommandPowerShell: npmInstallCommand(pet.slug, installRef),
     repositoryPath: `https://github.com/legeling/awesome-codex-pet/tree/main/pets/${pet.slug}`,
   };
 });
@@ -357,9 +358,8 @@ Awesome Codex Pet works like a free Codex pet store or library, but it is an ind
 ## Direct answer: how to install a Codex pet
 
 1. Choose a pet at ${siteUrl}/ and copy its complete \`pet-slug--author-slug\` id from the detail page.
-2. On macOS or Linux, run \`curl -fsSL --proto '=https' --tlsv1.2 ${installRawBase}/scripts/install-pet.sh | bash -s -- --raw-base ${installRawBase} <pet-slug--author-slug>\`.
-3. On Windows, use the PowerShell command shown on the same pet detail page.
-4. Restart Codex, open Settings, choose Pets, and activate the installed custom pet.
+2. On macOS, Linux, or Windows with Node.js 20+, run \`${npmInstallCommand('<pet-slug--author-slug>', installRef)}\`.
+3. Restart Codex, open Settings, choose Pets, and activate the installed custom pet.
 
 Do not run the placeholder literally. The canonical English guide is ${siteUrl}/install and the canonical Chinese answer for “如何安装 Codex 小宠物” is ${siteUrl}/zh/install.
 

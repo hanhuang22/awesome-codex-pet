@@ -1,1326 +1,2708 @@
 {
   "pets": {
     "acheron--lingxiaotian": {
+      "installs": 45,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 1798503771,
+      "updatedAt": 1789095173225
+    },
+    "aemeath-mini--cunuo": {
+      "installs": 116,
+      "likes": 1,
+      "installs7d": 6,
+      "likes7d": 0,
+      "trendingScore": 1362137,
+      "dailyRank": 2033810603,
+      "updatedAt": 1788935551216
+    },
+    "agamemnon--kazecreator": {
+      "installs": 6,
+      "likes": 0,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 96378156,
+      "updatedAt": 1788939572016
+    },
+    "aiko--chenxin-dlut": {
+      "installs": 22,
+      "likes": 0,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 4203889897,
+      "updatedAt": 1788603149384
+    },
+    "anya--chenxin-dlut": {
+      "installs": 87,
+      "likes": 0,
+      "installs7d": 9,
+      "likes7d": 0,
+      "trendingScore": 1611810,
+      "dailyRank": 95614912,
+      "updatedAt": 1789044398994
+    },
+    "apu--xchangee": {
+      "installs": 12,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 809627913,
+      "updatedAt": 1787886955291
+    },
+    "arlecchino--lingxiaotian": {
+      "installs": 27,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 1185772591,
+      "updatedAt": 1789031930581
+    },
+    "arona--legeling": {
+      "installs": 6,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 402724324,
+      "updatedAt": 1789014330583
+    },
+    "asuka--maxg24": {
+      "installs": 46,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 530841172,
+      "updatedAt": 1789059101973
+    },
+    "azuma--tairazuma": {
       "installs": 11,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 2715517684,
-      "updatedAt": 1784036783424
+      "dailyRank": 4140872022,
+      "updatedAt": 1787902067186
     },
-    "aemeath-mini--cunuo": {
-      "installs": 55,
+    "becky--natewanggg": {
+      "installs": 28,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3286117320,
-      "updatedAt": 1784039697767
+      "dailyRank": 65022319,
+      "updatedAt": 1787886987424
     },
-    "aiko--chenxin-dlut": {
+    "behemoth--kajdrak2": {
+      "installs": 2,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 1842625598,
+      "updatedAt": 1787886998300
+    },
+    "black-swan--lingxiaotian": {
+      "installs": 30,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 1560397846,
+      "updatedAt": 1789095178317
+    },
+    "blazer-god--sou2c1": {
       "installs": 0,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1343907260,
+      "dailyRank": 4002731950,
       "updatedAt": 0
     },
-    "anya--chenxin-dlut": {
-      "installs": 0,
+    "bocchi--lingxiaotian": {
+      "installs": 159,
+      "likes": 1,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 657339455,
+      "updatedAt": 1788768699903
+    },
+    "bond-forger--legeling": {
+      "installs": 5,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 4076287630,
+      "updatedAt": 1789022716099
+    },
+    "buba--yurcek": {
+      "installs": 153,
+      "likes": 4,
+      "installs7d": 10,
+      "likes7d": 0,
+      "trendingScore": 1678527,
+      "dailyRank": 3279782723,
+      "updatedAt": 1789097150095
+    },
+    "bubu--gbn666": {
+      "installs": 46,
+      "likes": 3,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3802300443,
+      "updatedAt": 1788388256173
+    },
+    "bubu-codebrew-bear--xxhh0822": {
+      "installs": 19,
+      "likes": 3,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 1291307945,
+      "updatedAt": 1788855124308
+    },
+    "capybara-lulu--jiushu": {
+      "installs": 61,
+      "likes": 1,
+      "installs7d": 10,
+      "likes7d": 0,
+      "trendingScore": 1678527,
+      "dailyRank": 3476511258,
+      "updatedAt": 1788949559864
+    },
+    "castorice--lingxiaotian": {
+      "installs": 38,
+      "likes": 0,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 3098739736,
+      "updatedAt": 1789095185236
+    },
+    "chen--chenxin-dlut": {
+      "installs": 13,
+      "likes": 1,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3468597349,
+      "updatedAt": 1787887066746
+    },
+    "chibi-rei-pet--bendy": {
+      "installs": 44,
+      "likes": 3,
+      "installs7d": 5,
+      "likes7d": 1,
+      "trendingScore": 1462176,
+      "dailyRank": 3077243970,
+      "updatedAt": 1789062608476
+    },
+    "chillet--legeling": {
+      "installs": 2,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1892383009,
-      "updatedAt": 0
+      "dailyRank": 3222262930,
+      "updatedAt": 1787931915408
     },
-    "apu--xchangee": {
+    "chispa--giiilberto-nm": {
+      "installs": 41,
+      "likes": 1,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 3745694378,
+      "updatedAt": 1789094838934
+    },
+    "chotu--makriman": {
       "installs": 5,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1892577498,
-      "updatedAt": 1784026021758
+      "dailyRank": 1943208639,
+      "updatedAt": 1788334404771
     },
-    "arlecchino--lingxiaotian": {
+    "chud-codex--jorge-cuevas90003": {
+      "installs": 2,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3237511363,
+      "updatedAt": 1787887196742
+    },
+    "citlali--zaytsevzy": {
+      "installs": 29,
+      "likes": 0,
+      "installs7d": 5,
+      "likes7d": 0,
+      "trendingScore": 1254232,
+      "dailyRank": 198997057,
+      "updatedAt": 1789034216351
+    },
+    "claude--xiangking": {
+      "installs": 106,
+      "likes": 1,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 1440934842,
+      "updatedAt": 1788965585193
+    },
+    "codenono--dq02": {
+      "installs": 168,
+      "likes": 1,
+      "installs7d": 5,
+      "likes7d": 0,
+      "trendingScore": 1254232,
+      "dailyRank": 1818234046,
+      "updatedAt": 1789028837203
+    },
+    "codexy--z19t": {
+      "installs": 0,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3420180748,
+      "updatedAt": 0
+    },
+    "conan--chenxin-dlut": {
+      "installs": 82,
+      "likes": 4,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 2674388446,
+      "updatedAt": 1789088588366
+    },
+    "corgi-companion--cxian0928-afk": {
+      "installs": 89,
+      "likes": 0,
+      "installs7d": 6,
+      "likes7d": 0,
+      "trendingScore": 1362137,
+      "dailyRank": 763475158,
+      "updatedAt": 1788946541067
+    },
+    "crt-monitor--wxy": {
+      "installs": 0,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 1109827380,
+      "updatedAt": 0
+    },
+    "cyrene--lingxiaotian": {
+      "installs": 60,
+      "likes": 1,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 3868745513,
+      "updatedAt": 1789095196975
+    },
+    "dai-dai-nai-you--1wphantom": {
+      "installs": 6,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 4105799793,
+      "updatedAt": 1787978874546
+    },
+    "deepseek-girl--legeling": {
+      "installs": 3,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 57639586,
+      "updatedAt": 1788840511282
+    },
+    "desk-otter--zihualiu1997": {
+      "installs": 18,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 68129999,
+      "updatedAt": 1789096991431
+    },
+    "diana--am": {
+      "installs": 26,
+      "likes": 2,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 1450597995,
+      "updatedAt": 1788317099180
+    },
+    "diandian--lllucasxu": {
+      "installs": 54,
+      "likes": 1,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 3605849533,
+      "updatedAt": 1788855150105
+    },
+    "diaoyi-baobao--d1a0y1bb": {
       "installs": 4,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 833738774,
-      "updatedAt": 1783996700101
-    },
-    "asuka--maxg24": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3148256611,
-      "updatedAt": 0
-    },
-    "azuma--tairazuma": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 588420259,
-      "updatedAt": 1784026022163
-    },
-    "becky--natewanggg": {
-      "installs": 18,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3738670836,
-      "updatedAt": 1784015758828
-    },
-    "black-swan--lingxiaotian": {
-      "installs": 2,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3397312667,
-      "updatedAt": 1784032911284
-    },
-    "bocchi--lingxiaotian": {
-      "installs": 76,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 4102958414,
-      "updatedAt": 1784033042764
-    },
-    "buba--yurcek": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2078378978,
-      "updatedAt": 0
-    },
-    "bubu--gbn666": {
-      "installs": 19,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 771825090,
-      "updatedAt": 1784015655513
-    },
-    "capybara-lulu--jiushu": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2942930745,
-      "updatedAt": 1784037841622
-    },
-    "castorice--lingxiaotian": {
-      "installs": 5,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 4167174915,
-      "updatedAt": 1784033925999
-    },
-    "chen--chenxin-dlut": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3621215280,
-      "updatedAt": 0
-    },
-    "chibi-rei-pet--bendy": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3967449871,
-      "updatedAt": 0
-    },
-    "chispa--giiilberto-nm": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1625635281,
-      "updatedAt": 1784026020038
-    },
-    "claude--xiangking": {
-      "installs": 42,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3463344189,
-      "updatedAt": 1784034471966
-    },
-    "codenono--dq02": {
-      "installs": 61,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3872922015,
-      "updatedAt": 1784035692596
-    },
-    "conan--chenxin-dlut": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2682347549,
-      "updatedAt": 0
-    },
-    "corgi-companion--cxian0928-afk": {
-      "installs": 35,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3695956859,
-      "updatedAt": 1784037427107
-    },
-    "cyrene--lingxiaotian": {
-      "installs": 9,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 28443784,
-      "updatedAt": 1784036941205
-    },
-    "dai-dai-nai-you--1wphantom": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3194737104,
-      "updatedAt": 0
-    },
-    "desk-otter--zihualiu1997": {
-      "installs": 1,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 976497874,
-      "updatedAt": 1784024253674
-    },
-    "diana--am": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3003506992,
-      "updatedAt": 1784024582447
-    },
-    "diandian--lllucasxu": {
-      "installs": 18,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1242920990,
-      "updatedAt": 1784033856717
-    },
-    "diaoyi-baobao--d1a0y1bb": {
-      "installs": 2,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1261395201,
-      "updatedAt": 1783665350124
+      "dailyRank": 2943437294,
+      "updatedAt": 1785207439769
     },
     "dimo-stand--god-wu": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1933715728,
-      "updatedAt": 0
+      "installs": 64,
+      "likes": 1,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 1179963045,
+      "updatedAt": 1789057300760
     },
     "dnf-female-ammo--qunboo": {
-      "installs": 10,
+      "installs": 14,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3928277677,
-      "updatedAt": 1783910563911
+      "dailyRank": 430633530,
+      "updatedAt": 1787824896235
     },
     "doraemon--xueshi": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 52817472,
-      "updatedAt": 0
+      "installs": 89,
+      "likes": 1,
+      "installs7d": 7,
+      "likes7d": 1,
+      "trendingScore": 1663553,
+      "dailyRank": 3259935817,
+      "updatedAt": 1789091771504
     },
     "doro--lingxiaotian": {
-      "installs": 71,
+      "installs": 128,
+      "likes": 1,
+      "installs7d": 5,
+      "likes7d": 1,
+      "trendingScore": 1462176,
+      "dailyRank": 63183187,
+      "updatedAt": 1788921091421
+    },
+    "doro--vaevie": {
+      "installs": 31,
+      "likes": 1,
+      "installs7d": 10,
+      "likes7d": 0,
+      "trendingScore": 1678527,
+      "dailyRank": 2756485908,
+      "updatedAt": 1789032394668
+    },
+    "doudizhu-laonongmin--chenyijing131-art": {
+      "installs": 27,
+      "likes": 1,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 287610908,
+      "updatedAt": 1788953583915
+    },
+    "drill-cat--qimi": {
+      "installs": 9,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2151428998,
-      "updatedAt": 1784038636913
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 3153673266,
+      "updatedAt": 1789021146477
     },
     "dudu-bubu--clembuilds": {
-      "installs": 1,
-      "likes": 0,
+      "installs": 30,
+      "likes": 2,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1608843866,
-      "updatedAt": 1784029521895
+      "dailyRank": 1904555341,
+      "updatedAt": 1788098479268
     },
     "duodong--froggie": {
-      "installs": 1,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1968432456,
-      "updatedAt": 1784027797726
+      "installs": 81,
+      "likes": 1,
+      "installs7d": 7,
+      "likes7d": 1,
+      "trendingScore": 1663553,
+      "dailyRank": 1259022933,
+      "updatedAt": 1789092229508
     },
     "elaina--nyakku-shigure": {
-      "installs": 0,
+      "installs": 41,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3727097678,
-      "updatedAt": 0
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 2121789415,
+      "updatedAt": 1789042142340
     },
     "ella-wave--sehjk": {
-      "installs": 1,
+      "installs": 32,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3419052124,
-      "updatedAt": 1784028482843
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 738440113,
+      "updatedAt": 1789033941170
     },
     "eren--ash-sw": {
+      "installs": 7,
+      "likes": 0,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 2532307327,
+      "updatedAt": 1788950676342
+    },
+    "fang-yuan--kelleszzz": {
       "installs": 0,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 937262006,
+      "dailyRank": 907028856,
       "updatedAt": 0
     },
     "feibi--vanfff": {
-      "installs": 0,
+      "installs": 91,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2773048329,
-      "updatedAt": 1784034087097
+      "installs7d": 5,
+      "likes7d": 0,
+      "trendingScore": 1254232,
+      "dailyRank": 3543100158,
+      "updatedAt": 1789048410200
     },
     "feixiao--lingxiaotian": {
-      "installs": 0,
+      "installs": 23,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2011198277,
-      "updatedAt": 0
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 588832090,
+      "updatedAt": 1789095201571
+    },
+    "fengge--qzl1-stack": {
+      "installs": 28,
+      "likes": 2,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 4007182189,
+      "updatedAt": 1788947782774
     },
     "firefly--lingxiaotian": {
-      "installs": 478,
-      "likes": 1,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3659051899,
-      "updatedAt": 1784039493504
+      "installs": 1250,
+      "likes": 8,
+      "installs7d": 51,
+      "likes7d": 1,
+      "trendingScore": 2973815,
+      "dailyRank": 41056008,
+      "updatedAt": 1789097446850
     },
     "fleta--natewanggg": {
-      "installs": 53,
+      "installs": 69,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 2539420372,
-      "updatedAt": 1784012585531
+      "dailyRank": 1373600227,
+      "updatedAt": 1788264522654
     },
     "frankie--aygunvarol": {
-      "installs": 11,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2464881813,
-      "updatedAt": 1784015734567
+      "installs": 22,
+      "likes": 1,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 2323651518,
+      "updatedAt": 1788932514646
     },
     "frieren--lingxiaotian": {
-      "installs": 118,
-      "likes": 1,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 128845501,
-      "updatedAt": 1784039949782
+      "installs": 271,
+      "likes": 8,
+      "installs7d": 13,
+      "likes7d": 1,
+      "trendingScore": 2055284,
+      "dailyRank": 3666516726,
+      "updatedAt": 1789039037908
+    },
+    "fujiwara-chika--klmklmnb": {
+      "installs": 8,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 4278616528,
+      "updatedAt": 1789007845581
     },
     "furina--lingxiaotian": {
-      "installs": 25,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1551570913,
-      "updatedAt": 1784035469491
+      "installs": 103,
+      "likes": 1,
+      "installs7d": 6,
+      "likes7d": 0,
+      "trendingScore": 1362137,
+      "dailyRank": 1473705072,
+      "updatedAt": 1789031942037
     },
     "ganyu--chenxin-dlut": {
-      "installs": 0,
+      "installs": 29,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1564257166,
-      "updatedAt": 0
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 132619337,
+      "updatedAt": 1788749361438
     },
     "gintoki-pixel--yuu-m": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2024384286,
-      "updatedAt": 0
+      "installs": 36,
+      "likes": 1,
+      "installs7d": 4,
+      "likes7d": 1,
+      "trendingScore": 1334551,
+      "dailyRank": 2283070799,
+      "updatedAt": 1789044485565
     },
     "giyu-tomioka--wangfan002": {
-      "installs": 0,
+      "installs": 24,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3709438362,
-      "updatedAt": 0
+      "installs7d": 5,
+      "likes7d": 0,
+      "trendingScore": 1254232,
+      "dailyRank": 1053171259,
+      "updatedAt": 1789044496576
     },
     "goblin--rkwap": {
-      "installs": 0,
+      "installs": 4,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 2684177997,
-      "updatedAt": 0
+      "dailyRank": 3318385830,
+      "updatedAt": 1786676616731
     },
     "gojo--lilokhalikfa": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2916900079,
-      "updatedAt": 0
+      "installs": 67,
+      "likes": 3,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 1903937978,
+      "updatedAt": 1789026149594
     },
     "gpt-muse--opask": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 4132219535,
-      "updatedAt": 0
+      "installs": 34,
+      "likes": 3,
+      "installs7d": 1,
+      "likes7d": 1,
+      "trendingScore": 693147,
+      "dailyRank": 961841564,
+      "updatedAt": 1789045370667
     },
     "gudong--rank": {
-      "installs": 0,
+      "installs": 4,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 2147051667,
-      "updatedAt": 0
+      "dailyRank": 2863756078,
+      "updatedAt": 1787824869036
     },
     "guga--circus": {
-      "installs": 2,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 569566348,
-      "updatedAt": 1784036398206
+      "installs": 112,
+      "likes": 3,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 2276964573,
+      "updatedAt": 1788919134915
     },
     "hajimi--zeyuwang1999": {
-      "installs": 11,
+      "installs": 22,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 2645104435,
-      "updatedAt": 1784012076439
+      "dailyRank": 1029907406,
+      "updatedAt": 1787561128802
     },
     "hami--tat": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1982632167,
-      "updatedAt": 0
+      "installs": 69,
+      "likes": 3,
+      "installs7d": 5,
+      "likes7d": 0,
+      "trendingScore": 1254232,
+      "dailyRank": 2111917004,
+      "updatedAt": 1789034639956
     },
-    "hana2--initiatione": {
-      "installs": 18,
+    "hamo--haipengzzz": {
+      "installs": 3,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 907554210,
-      "updatedAt": 1784025310990
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 309494905,
+      "updatedAt": 1788978692155
     },
-    "hance-woniu--korn": {
-      "installs": 0,
+    "han-li--legeling": {
+      "installs": 2,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 4060680351,
-      "updatedAt": 0
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 1646964764,
+      "updatedAt": 1788848798053
     },
-    "happynailong--aquaxyy": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2814329523,
-      "updatedAt": 0
-    },
-    "hu-tao--lingxiaotian": {
+    "han-li--metro186": {
       "installs": 9,
       "likes": 0,
+      "installs7d": 5,
+      "likes7d": 0,
+      "trendingScore": 1254232,
+      "dailyRank": 3129836897,
+      "updatedAt": 1789033724894
+    },
+    "hana2--initiatione": {
+      "installs": 22,
+      "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1542266814,
-      "updatedAt": 1784018577518
+      "dailyRank": 2864841191,
+      "updatedAt": 1788074713818
+    },
+    "hance-woniu--korn": {
+      "installs": 20,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 1502793632,
+      "updatedAt": 1788675582201
+    },
+    "happynailong--aquaxyy": {
+      "installs": 202,
+      "likes": 7,
+      "installs7d": 25,
+      "likes7d": 1,
+      "trendingScore": 2488612,
+      "dailyRank": 3372002700,
+      "updatedAt": 1789093307020
+    },
+    "hu-tao--lingxiaotian": {
+      "installs": 57,
+      "likes": 1,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 3939425655,
+      "updatedAt": 1788944234587
     },
     "hyacine--kurisu": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2238062279,
-      "updatedAt": 0
+      "installs": 28,
+      "likes": 2,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 491874268,
+      "updatedAt": 1789095206040
     },
     "ikaros--icarus-alpha": {
-      "installs": 0,
+      "installs": 21,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 2130825392,
-      "updatedAt": 0
+      "dailyRank": 3316497581,
+      "updatedAt": 1788385024295
     },
     "inosuke-hashibira--wangfan002": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3766539041,
-      "updatedAt": 0
+      "installs": 31,
+      "likes": 1,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 733039026,
+      "updatedAt": 1788579104114
     },
     "iris--yau-427": {
-      "installs": 0,
-      "likes": 0,
+      "installs": 8,
+      "likes": 1,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 2319289511,
-      "updatedAt": 0
+      "dailyRank": 4081721216,
+      "updatedAt": 1788348641684
     },
     "isaac--foggy-whale": {
-      "installs": 0,
+      "installs": 31,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1632016758,
-      "updatedAt": 0
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 3304634623,
+      "updatedAt": 1789097518400
     },
     "isekaijoucho--siiverash": {
+      "installs": 10,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 2993299734,
+      "updatedAt": 1788891783871
+    },
+    "izumi-konata--legeling": {
       "installs": 0,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3463740557,
+      "dailyRank": 2598277794,
       "updatedAt": 0
     },
     "jesse-the-fox--itjesse": {
-      "installs": 0,
+      "installs": 10,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 42867362,
-      "updatedAt": 0
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 2953959191,
+      "updatedAt": 1788788761984
     },
     "jiji--yena": {
-      "installs": 1,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1872077140,
-      "updatedAt": 1784025794625
+      "installs": 62,
+      "likes": 1,
+      "installs7d": 5,
+      "likes7d": 0,
+      "trendingScore": 1254232,
+      "dailyRank": 1728711577,
+      "updatedAt": 1789059340390
+    },
+    "jinmao--legeling": {
+      "installs": 9,
+      "likes": 2,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 2281136401,
+      "updatedAt": 1788781978108
     },
     "joker--oytyo": {
-      "installs": 0,
-      "likes": 0,
+      "installs": 1,
+      "likes": 2,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3620052034,
-      "updatedAt": 0
+      "dailyRank": 3092499,
+      "updatedAt": 1787393170148
     },
     "jolyne-cujoh--d2682787206-sys": {
-      "installs": 0,
-      "likes": 0,
+      "installs": 4,
+      "likes": 2,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1295398096,
-      "updatedAt": 0
+      "dailyRank": 3846658167,
+      "updatedAt": 1787298623085
+    },
+    "kaguya-luna--enclairfarron": {
+      "installs": 15,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 4221862959,
+      "updatedAt": 1789012293313
     },
     "kaiju-no-8--terry878": {
-      "installs": 0,
+      "installs": 10,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1601084761,
-      "updatedAt": 0
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 737650784,
+      "updatedAt": 1788853600373
     },
     "kamisato-ayaka--lingxiaotian": {
-      "installs": 8,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 438432699,
-      "updatedAt": 1784036574220
+      "installs": 31,
+      "likes": 2,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 1625448502,
+      "updatedAt": 1788935929568
     },
     "katana-cheems--thankyou-cheems": {
-      "installs": 23,
+      "installs": 77,
       "likes": 1,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2155066444,
-      "updatedAt": 1784039815700
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 3550482249,
+      "updatedAt": 1789090172561
     },
     "kid--chenxin-dlut": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 130274846,
-      "updatedAt": 0
+      "installs": 47,
+      "likes": 1,
+      "installs7d": 6,
+      "likes7d": 0,
+      "trendingScore": 1362137,
+      "dailyRank": 2536425045,
+      "updatedAt": 1789023887777
     },
     "kid-goku--julianhuang": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3841050844,
-      "updatedAt": 0
+      "installs": 190,
+      "likes": 3,
+      "installs7d": 15,
+      "likes7d": 1,
+      "trendingScore": 2148756,
+      "dailyRank": 2083507443,
+      "updatedAt": 1789093303840
     },
     "kiko--untko": {
-      "installs": 0,
+      "installs": 21,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2719266724,
-      "updatedAt": 0
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 1736725291,
+      "updatedAt": 1789031082285
     },
     "kimoju--andiac": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3227612418,
-      "updatedAt": 0
+      "installs": 18,
+      "likes": 1,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 1952444943,
+      "updatedAt": 1788954770973
     },
     "klee--chenxin-dlut": {
-      "installs": 0,
+      "installs": 31,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 176305725,
-      "updatedAt": 0
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 1548111080,
+      "updatedAt": 1788955154520
+    },
+    "klee-desk--ayanxu56-boop": {
+      "installs": 7,
+      "likes": 1,
+      "installs7d": 2,
+      "likes7d": 1,
+      "trendingScore": 976973,
+      "dailyRank": 2062785457,
+      "updatedAt": 1788944291298
     },
     "koukou-penguin--hoody": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1492004105,
-      "updatedAt": 0
+      "installs": 83,
+      "likes": 2,
+      "installs7d": 6,
+      "likes7d": 0,
+      "trendingScore": 1362137,
+      "dailyRank": 1521482402,
+      "updatedAt": 1789097651208
     },
     "kuro-chibi--kuroneko-night": {
-      "installs": 0,
+      "installs": 14,
+      "likes": 1,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 2815570452,
+      "updatedAt": 1788784923753
+    },
+    "kuromi--legeling": {
+      "installs": 11,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2967278537,
-      "updatedAt": 0
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 3937576740,
+      "updatedAt": 1788768789444
     },
     "lappland--chenxin-dlut": {
-      "installs": 0,
+      "installs": 6,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 2615740822,
-      "updatedAt": 0
+      "dailyRank": 407509983,
+      "updatedAt": 1785825206025
     },
     "levi--emrecb": {
+      "installs": 39,
+      "likes": 1,
+      "installs7d": 3,
+      "likes7d": 1,
+      "trendingScore": 1178350,
+      "dailyRank": 2877560394,
+      "updatedAt": 1789076635031
+    },
+    "light-fury--legeling": {
       "installs": 0,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1401176579,
+      "dailyRank": 4058711114,
       "updatedAt": 0
     },
     "lil-swole--gg0805": {
-      "installs": 0,
+      "installs": 3,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1601340112,
-      "updatedAt": 0
+      "dailyRank": 3947116023,
+      "updatedAt": 1786440543335
     },
-    "linnea--nyakku-shigure": {
-      "installs": 0,
+    "lin-pianpian-courtesan--legeling": {
+      "installs": 2,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1487324549,
-      "updatedAt": 0
+      "dailyRank": 3761075886,
+      "updatedAt": 1787823958991
     },
-    "little-black-mage--libertis": {
-      "installs": 0,
+    "lin-pianpian-date--legeling": {
+      "installs": 1,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3289154914,
-      "updatedAt": 1784031186946
+      "dailyRank": 3207827272,
+      "updatedAt": 1787650588474
     },
-    "little-sheep--mingdong": {
+    "lin-pianpian-first-meeting--legeling": {
+      "installs": 1,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 2730361356,
+      "updatedAt": 1787650571045
+    },
+    "lin-pianpian-flower-street--legeling": {
       "installs": 4,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2238086678,
-      "updatedAt": 1783922371669
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 506454223,
+      "updatedAt": 1789034418843
     },
-    "luffy-gear-5--jordsshmords1": {
-      "installs": 0,
+    "linnea--nyakku-shigure": {
+      "installs": 19,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 316433246,
-      "updatedAt": 0
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 314063280,
+      "updatedAt": 1788955035809
     },
-    "lulu--yogazz": {
-      "installs": 100,
-      "likes": 1,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 179823803,
-      "updatedAt": 1784039803586
-    },
-    "luna-angel-cat--neve": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1879315456,
-      "updatedAt": 0
-    },
-    "mahiro--lingxiaotian": {
-      "installs": 82,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2092837274,
-      "updatedAt": 1784036614847
-    },
-    "mai--dwdestiny": {
-      "installs": 11,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2438010573,
-      "updatedAt": 1783970137612
-    },
-    "makimamini--1sh1ro": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1305470840,
-      "updatedAt": 0
-    },
-    "makisekurisu--m1gr4ine": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1856618737,
-      "updatedAt": 0
-    },
-    "maodie--octane0411": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 249077906,
-      "updatedAt": 0
-    },
-    "march-7th--chenxin-dlut": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 652160009,
-      "updatedAt": 0
-    },
-    "mellow-duck--sally-entr": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 341159516,
-      "updatedAt": 1784038447746
-    },
-    "mihari--hyoni1129": {
-      "installs": 17,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1697375979,
-      "updatedAt": 1784008591419
-    },
-    "mika--rotl24": {
-      "installs": 24,
-      "likes": 1,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1121350328,
-      "updatedAt": 1784039814719
-    },
-    "mikoto--lingxiaotian": {
-      "installs": 38,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3566454209,
-      "updatedAt": 1784009606961
-    },
-    "miku--lingxiaotian": {
-      "installs": 101,
-      "likes": 1,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1483633382,
-      "updatedAt": 1784041637280
-    },
-    "mimi--spacebody": {
+    "little-black-mage--libertis": {
       "installs": 19,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3239210255,
-      "updatedAt": 1784028215213
+      "dailyRank": 2405059457,
+      "updatedAt": 1788506069914
     },
-    "minty--somnusochi": {
-      "installs": 0,
+    "little-sheep--mingdong": {
+      "installs": 6,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1165605586,
-      "updatedAt": 0
+      "dailyRank": 835184475,
+      "updatedAt": 1785589548513
     },
-    "misaka-network--ldl1234": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1722367250,
-      "updatedAt": 0
-    },
-    "miu-meo--lemon-z": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2789440526,
-      "updatedAt": 1784039170081
-    },
-    "miyabi--eric-terminal": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2096184544,
-      "updatedAt": 0
-    },
-    "moomew-coder-cat--ping": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3738427462,
-      "updatedAt": 0
-    },
-    "muichiro-tokito--wangfan002": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1264585298,
-      "updatedAt": 0
-    },
-    "nahida--lingxiaotian": {
-      "installs": 15,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 755566441,
-      "updatedAt": 1784023501145
-    },
-    "naiwa--sandytruant": {
+    "liubao--killyer": {
       "installs": 1,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3478450736,
-      "updatedAt": 1784026327479
+      "dailyRank": 2624350422,
+      "updatedAt": 1785923546857
     },
-    "nangong-wan--bpup": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 4101157521,
-      "updatedAt": 0
-    },
-    "navia--lingxiaotian": {
+    "longying--legeling": {
       "installs": 1,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 4188531261,
-      "updatedAt": 1784012347784
+      "dailyRank": 3976362286,
+      "updatedAt": 1786508652642
     },
-    "new-covenant-exusiai--chenxin-dlut": {
-      "installs": 0,
+    "luffy-gear-5--jordsshmords1": {
+      "installs": 56,
+      "likes": 1,
+      "installs7d": 6,
+      "likes7d": 0,
+      "trendingScore": 1362137,
+      "dailyRank": 3281758269,
+      "updatedAt": 1789048612175
+    },
+    "lulu--yogazz": {
+      "installs": 248,
+      "likes": 2,
+      "installs7d": 7,
+      "likes7d": 0,
+      "trendingScore": 1455609,
+      "dailyRank": 3748640118,
+      "updatedAt": 1789009918483
+    },
+    "lumei--dagwbl": {
+      "installs": 22,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 3822938213,
+      "updatedAt": 1789057555757
+    },
+    "luna-angel-cat--neve": {
+      "installs": 7,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 753927657,
+      "updatedAt": 1788770666675
+    },
+    "luo-xiaohei--legeling": {
+      "installs": 5,
+      "likes": 1,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 1768545627,
+      "updatedAt": 1788608946842
+    },
+    "mahiro--lingxiaotian": {
+      "installs": 131,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 2806044447,
+      "updatedAt": 1788848680590
+    },
+    "mai--dwdestiny": {
+      "installs": 14,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1784750878,
-      "updatedAt": 0
+      "dailyRank": 227227348,
+      "updatedAt": 1786298154059
     },
-    "nezuko-kamado--wangfan002": {
-      "installs": 0,
+    "makima-coat--yuyuabc1": {
+      "installs": 11,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1670109733,
-      "updatedAt": 0
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 404936317,
+      "updatedAt": 1788678084243
     },
-    "night-neko--netizenxuan": {
+    "makimamini--1sh1ro": {
       "installs": 23,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 907544,
-      "updatedAt": 1784020365727
+      "dailyRank": 1949057389,
+      "updatedAt": 1788127614745
     },
-    "nimbus--soraberu": {
-      "installs": 0,
+    "makisekurisu--m1gr4ine": {
+      "installs": 47,
+      "likes": 1,
+      "installs7d": 6,
+      "likes7d": 1,
+      "trendingScore": 1570081,
+      "dailyRank": 102090084,
+      "updatedAt": 1789089574547
+    },
+    "maodie--octane0411": {
+      "installs": 52,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2266413786,
-      "updatedAt": 0
+      "installs7d": 5,
+      "likes7d": 0,
+      "trendingScore": 1254232,
+      "dailyRank": 1851553323,
+      "updatedAt": 1789034668167
     },
-    "niumou--jarvis-2": {
-      "installs": 0,
+    "march-7th--chenxin-dlut": {
+      "installs": 19,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1630206890,
-      "updatedAt": 0
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 1881372790,
+      "updatedAt": 1789095210355
     },
-    "paimon--lingxiaotian": {
-      "installs": 79,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 967055404,
-      "updatedAt": 1784038169897
-    },
-    "panda--jason-bai": {
-      "installs": 13,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3509004569,
-      "updatedAt": 1784019691992
-    },
-    "phoebe--chenxin-dlut": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 114507057,
-      "updatedAt": 0
-    },
-    "pixel-duck--flamurmaliqi": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2359335549,
-      "updatedAt": 0
-    },
-    "raiden-shogun--lingxiaotian": {
-      "installs": 5,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1166609066,
-      "updatedAt": 1784034575478
-    },
-    "regulus-star-antimony--chenxin-dlut": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 140057342,
-      "updatedAt": 0
-    },
-    "reimu--lingxiaotian": {
-      "installs": 55,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 777734060,
-      "updatedAt": 1784018211361
-    },
-    "rem--l1": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2187382450,
-      "updatedAt": 0
-    },
-    "rinami--siiverash": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3711589943,
-      "updatedAt": 0
-    },
-    "robin--lingxiaotian": {
-      "installs": 10,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 933838938,
-      "updatedAt": 1784038007277
-    },
-    "rook--klubbyte": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3439928984,
-      "updatedAt": 0
-    },
-    "roxy-pixel--gravity": {
+    "march-7th--legeling": {
       "installs": 1,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3323819936,
-      "updatedAt": 1784034819043
+      "dailyRank": 289770462,
+      "updatedAt": 1787824835583
     },
-    "ruan-mei--lingxiaotian": {
-      "installs": 4,
+    "marisa-kirisame--eigentom": {
+      "installs": 0,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3198488150,
-      "updatedAt": 1784017880125
+      "dailyRank": 2146607555,
+      "updatedAt": 0
+    },
+    "mellow-duck--sally-entr": {
+      "installs": 76,
+      "likes": 0,
+      "installs7d": 7,
+      "likes7d": 0,
+      "trendingScore": 1455609,
+      "dailyRank": 2756905055,
+      "updatedAt": 1789092179712
+    },
+    "mihari--hyoni1129": {
+      "installs": 24,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 2601992312,
+      "updatedAt": 1788922817807
+    },
+    "mika--rotl24": {
+      "installs": 39,
+      "likes": 0,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 2085895245,
+      "updatedAt": 1788767155302
+    },
+    "mikoto--lingxiaotian": {
+      "installs": 70,
+      "likes": 2,
+      "installs7d": 2,
+      "likes7d": 1,
+      "trendingScore": 976973,
+      "dailyRank": 986584424,
+      "updatedAt": 1789044468190
+    },
+    "miku--lingxiaotian": {
+      "installs": 207,
+      "likes": 1,
+      "installs7d": 8,
+      "likes7d": 0,
+      "trendingScore": 1538057,
+      "dailyRank": 2525898835,
+      "updatedAt": 1789097419801
+    },
+    "mimi--spacebody": {
+      "installs": 40,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 409508580,
+      "updatedAt": 1788349245437
+    },
+    "minty--somnusochi": {
+      "installs": 38,
+      "likes": 1,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 2665113933,
+      "updatedAt": 1788378262880
+    },
+    "misaka-network--ldl1234": {
+      "installs": 9,
+      "likes": 1,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 2958263517,
+      "updatedAt": 1789097117203
+    },
+    "missile--zpzjzj": {
+      "installs": 2,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 1542205296,
+      "updatedAt": 1788527484578
+    },
+    "miu-meo--lemon-z": {
+      "installs": 187,
+      "likes": 7,
+      "installs7d": 7,
+      "likes7d": 0,
+      "trendingScore": 1455609,
+      "dailyRank": 2047809339,
+      "updatedAt": 1789092047604
+    },
+    "miyabi--eric-terminal": {
+      "installs": 27,
+      "likes": 0,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 1969001379,
+      "updatedAt": 1788807043873
+    },
+    "moomew-coder-cat--ping": {
+      "installs": 88,
+      "likes": 2,
+      "installs7d": 5,
+      "likes7d": 1,
+      "trendingScore": 1462176,
+      "dailyRank": 2771829295,
+      "updatedAt": 1789091249954
+    },
+    "muichiro-tokito--wangfan002": {
+      "installs": 26,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 1463915413,
+      "updatedAt": 1788786247250
+    },
+    "nahida--lingxiaotian": {
+      "installs": 60,
+      "likes": 1,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 3834317744,
+      "updatedAt": 1789040730633
+    },
+    "naiwa--sandytruant": {
+      "installs": 55,
+      "likes": 1,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 2547577881,
+      "updatedAt": 1789032394673
+    },
+    "nangong-wan--bpup": {
+      "installs": 18,
+      "likes": 2,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 3188055914,
+      "updatedAt": 1789034114069
+    },
+    "navia--lingxiaotian": {
+      "installs": 15,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 2062558730,
+      "updatedAt": 1787899048783
+    },
+    "new-covenant-exusiai--chenxin-dlut": {
+      "installs": 15,
+      "likes": 0,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 3660024079,
+      "updatedAt": 1789010524939
+    },
+    "nezuko-kamado--wangfan002": {
+      "installs": 52,
+      "likes": 0,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 1183084926,
+      "updatedAt": 1789034064747
+    },
+    "night-neko--netizenxuan": {
+      "installs": 30,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 1600599507,
+      "updatedAt": 1787816562707
+    },
+    "nimbus--soraberu": {
+      "installs": 70,
+      "likes": 0,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 685210947,
+      "updatedAt": 1789040610897
+    },
+    "niulai--legeling": {
+      "installs": 22,
+      "likes": 0,
+      "installs7d": 7,
+      "likes7d": 0,
+      "trendingScore": 1455609,
+      "dailyRank": 2064205331,
+      "updatedAt": 1789034855776
+    },
+    "niulaima--ryde-play": {
+      "installs": 0,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 2146730181,
+      "updatedAt": 0
+    },
+    "niumou--jarvis-2": {
+      "installs": 100,
+      "likes": 3,
+      "installs7d": 6,
+      "likes7d": 0,
+      "trendingScore": 1362137,
+      "dailyRank": 1154528999,
+      "updatedAt": 1789099407288
+    },
+    "om-nom--kasyan1337": {
+      "installs": 10,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 142694736,
+      "updatedAt": 1788847283254
+    },
+    "paimon--lingxiaotian": {
+      "installs": 181,
+      "likes": 2,
+      "installs7d": 10,
+      "likes7d": 0,
+      "trendingScore": 1678527,
+      "dailyRank": 1504397597,
+      "updatedAt": 1789097460536
+    },
+    "panda--jason-bai": {
+      "installs": 18,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 4021264184,
+      "updatedAt": 1787717310775
+    },
+    "phoebe--chenxin-dlut": {
+      "installs": 23,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 3644373032,
+      "updatedAt": 1788581312700
+    },
+    "pickle-rick--ryde-play": {
+      "installs": 0,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 2443336603,
+      "updatedAt": 0
+    },
+    "pixel-duck--flamurmaliqi": {
+      "installs": 6,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 2373171468,
+      "updatedAt": 1788546238586
+    },
+    "raiden-shogun--lingxiaotian": {
+      "installs": 42,
+      "likes": 0,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 247076537,
+      "updatedAt": 1788946146904
+    },
+    "regulus-star-antimony--chenxin-dlut": {
+      "installs": 2,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 1992359577,
+      "updatedAt": 1786503885520
+    },
+    "reimu--lingxiaotian": {
+      "installs": 108,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3482124487,
+      "updatedAt": 1788353149479
+    },
+    "rem--l1": {
+      "installs": 112,
+      "likes": 5,
+      "installs7d": 12,
+      "likes7d": 1,
+      "trendingScore": 2003409,
+      "dailyRank": 3595112581,
+      "updatedAt": 1789093300066
+    },
+    "remielle-dan--erlla": {
+      "installs": 65,
+      "likes": 2,
+      "installs7d": 7,
+      "likes7d": 0,
+      "trendingScore": 1455609,
+      "dailyRank": 2232246333,
+      "updatedAt": 1788964347860
+    },
+    "rinami--siiverash": {
+      "installs": 3,
+      "likes": 1,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3048323584,
+      "updatedAt": 1786121782794
+    },
+    "robin--lingxiaotian": {
+      "installs": 51,
+      "likes": 5,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 360306833,
+      "updatedAt": 1789095215009
+    },
+    "rook--klubbyte": {
+      "installs": 8,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 956422097,
+      "updatedAt": 1787118056832
+    },
+    "rosmontis--flovst": {
+      "installs": 2,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 1255643180,
+      "updatedAt": 1788763406205
+    },
+    "roxy-pixel--gravity": {
+      "installs": 48,
+      "likes": 2,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 1691716891,
+      "updatedAt": 1789069926137
+    },
+    "ruan-mei--lingxiaotian": {
+      "installs": 27,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 493019371,
+      "updatedAt": 1789095219533
     },
     "ruruka--ltmcliao-cmyk": {
       "installs": 3,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 2423472363,
-      "updatedAt": 1784020426310
+      "dailyRank": 3886028232,
+      "updatedAt": 1784815505493
     },
     "saber--petdex-zhenyou-ling": {
+      "installs": 34,
+      "likes": 1,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 845652679,
+      "updatedAt": 1789037038570
+    },
+    "saiki-kusuo--yjt0416": {
       "installs": 0,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1739296286,
+      "dailyRank": 624186681,
       "updatedAt": 0
+    },
+    "sakamoto--zpzjzj": {
+      "installs": 10,
+      "likes": 1,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 1760338061,
+      "updatedAt": 1788848742043
     },
     "saki--rookie-09": {
-      "installs": 9,
+      "installs": 12,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3007087176,
-      "updatedAt": 1783977466694
+      "dailyRank": 160318963,
+      "updatedAt": 1787053603911
+    },
+    "salary-cat--zuochunjie": {
+      "installs": 44,
+      "likes": 2,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 2425759667,
+      "updatedAt": 1788941913709
+    },
+    "serge-le-lapin--legeling": {
+      "installs": 1,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 2715429344,
+      "updatedAt": 1789002041705
+    },
+    "shaun--ryde-play": {
+      "installs": 0,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 2208328654,
+      "updatedAt": 0
+    },
+    "shen-xinghui--legeling": {
+      "installs": 1,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 2286952054,
+      "updatedAt": 1788843168475
     },
     "shian-helper--mistyshen": {
-      "installs": 6,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 522684525,
-      "updatedAt": 1784019759105
-    },
-    "shinchan--chenxin-dlut": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 396240992,
-      "updatedAt": 0
-    },
-    "shinobu-kocho--wangfan002": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 439066740,
-      "updatedAt": 0
-    },
-    "silver-wolf--lingxiaotian": {
-      "installs": 4,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1126832062,
-      "updatedAt": 1784038451166
-    },
-    "sonetto--chenxin-dlut": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2763402406,
-      "updatedAt": 0
-    },
-    "sparkle--lingxiaotian": {
-      "installs": 2,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3887905804,
-      "updatedAt": 1784020840803
-    },
-    "spellbook--seymour": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 4179590842,
-      "updatedAt": 0
-    },
-    "starcorn--alterhq": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 895518828,
-      "updatedAt": 0
-    },
-    "tangdouren--carl312": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 4052299150,
-      "updatedAt": 0
-    },
-    "tanjiro-kamado--wangfan002": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2949195350,
-      "updatedAt": 0
-    },
-    "teddy--danieloleary": {
-      "installs": 17,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1409490124,
-      "updatedAt": 1783928686586
-    },
-    "tian-hua-hua--d1a0y1bb": {
       "installs": 11,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3185622247,
-      "updatedAt": 1784021534106
+      "dailyRank": 2248169734,
+      "updatedAt": 1787837907480
     },
-    "tingyun--lingxiaotian": {
+    "shinchan--chenxin-dlut": {
+      "installs": 174,
+      "likes": 1,
+      "installs7d": 15,
+      "likes7d": 0,
+      "trendingScore": 1940812,
+      "dailyRank": 2552786249,
+      "updatedAt": 1789025703024
+    },
+    "shinobu-kocho--wangfan002": {
+      "installs": 33,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 4262210139,
+      "updatedAt": 1788951258085
+    },
+    "silver-wolf--lingxiaotian": {
+      "installs": 37,
+      "likes": 0,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 1261345325,
+      "updatedAt": 1789095224176
+    },
+    "sleepwing--lttxzmj": {
+      "installs": 0,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 2499841751,
+      "updatedAt": 0
+    },
+    "sonetto--chenxin-dlut": {
       "installs": 5,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 4174492614,
-      "updatedAt": 1783918716967
+      "dailyRank": 773945117,
+      "updatedAt": 1787131513401
     },
-    "tiny-crt--chochou": {
-      "installs": 0,
+    "sparkle--lingxiaotian": {
+      "installs": 22,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2140173094,
-      "updatedAt": 1784031305774
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 1944444923,
+      "updatedAt": 1789095229046
     },
-    "tuantuan--jbbom": {
-      "installs": 0,
+    "spellbook--seymour": {
+      "installs": 17,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1858819967,
-      "updatedAt": 1784029172175
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 2422347331,
+      "updatedAt": 1789002910712
     },
-    "twinkle-twinkle--twinkletwinkle": {
-      "installs": 0,
+    "starcorn--alterhq": {
+      "installs": 10,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 4069406872,
-      "updatedAt": 1784024273709
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 66549135,
+      "updatedAt": 1788788688658
     },
-    "usachi--jack": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3565259423,
-      "updatedAt": 1784038062901
-    },
-    "vertin--chenxin-dlut": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1758400208,
-      "updatedAt": 0
-    },
-    "violet--lazenca": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2685812080,
-      "updatedAt": 0
-    },
-    "wakaba-mutsumi--carambola": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2053779409,
-      "updatedAt": 0
-    },
-    "wally--wally025": {
-      "installs": 2,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 712681538,
-      "updatedAt": 1784022891363
-    },
-    "xian-xiao-lu--qingyunagi": {
-      "installs": 5,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 4217850441,
-      "updatedAt": 1783945642201
-    },
-    "xiaoba-cat--jack": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3306793727,
-      "updatedAt": 0
-    },
-    "xiaomai--brian-3": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 220675431,
-      "updatedAt": 1784024871368
-    },
-    "yier--gbn666": {
-      "installs": 23,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1298834543,
-      "updatedAt": 1784022673608
-    },
-    "yoimiya--chenxin-dlut": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3975226797,
-      "updatedAt": 0
-    },
-    "youmu--ai-generated": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 1616418526,
-      "updatedAt": 0
-    },
-    "yuanzai--gaming33": {
-      "installs": 5,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3932238393,
-      "updatedAt": 1784000556354
-    },
-    "yume-boundary--andy-meow": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 440861731,
-      "updatedAt": 1784031564505
-    },
-    "yuzubou--keseras34938976": {
+    "sunny-retriever--legeling": {
       "installs": 6,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 2221652981,
-      "updatedAt": 1783945226889
+      "dailyRank": 617722241,
+      "updatedAt": 1788442224503
+    },
+    "susuta--xiangzi529": {
+      "installs": 4,
+      "likes": 1,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3862404431,
+      "updatedAt": 1787714351627
+    },
+    "sylas-ravenshade--legeling": {
+      "installs": 0,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3401908081,
+      "updatedAt": 0
+    },
+    "takamatsu-tomori--a1wace-dev": {
+      "installs": 12,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 3072790484,
+      "updatedAt": 1788759211555
+    },
+    "tangdouren--carl312": {
+      "installs": 40,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 880987305,
+      "updatedAt": 1788683966249
+    },
+    "tanjiro-kamado--wangfan002": {
+      "installs": 42,
+      "likes": 0,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 1893945183,
+      "updatedAt": 1789031193208
+    },
+    "teddy--danieloleary": {
+      "installs": 23,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 611886759,
+      "updatedAt": 1787727187697
+    },
+    "templar-knight--jorge-cuevas90003": {
+      "installs": 2,
+      "likes": 0,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 2577726104,
+      "updatedAt": 1789030548781
+    },
+    "tian-hua-hua--d1a0y1bb": {
+      "installs": 16,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 104905222,
+      "updatedAt": 1788378163917
+    },
+    "tingyun--lingxiaotian": {
+      "installs": 28,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 1051145249,
+      "updatedAt": 1789095233874
+    },
+    "tiny-crt--chochou": {
+      "installs": 51,
+      "likes": 2,
+      "installs7d": 5,
+      "likes7d": 0,
+      "trendingScore": 1254232,
+      "dailyRank": 1390601325,
+      "updatedAt": 1789002915922
+    },
+    "togawa-sakiko--enclairfarron": {
+      "installs": 16,
+      "likes": 1,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 2397498244,
+      "updatedAt": 1788951217985
+    },
+    "toothless--legeling": {
+      "installs": 1,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 4170437482,
+      "updatedAt": 1788608724936
+    },
+    "toyama-kasumi--lsmd23": {
+      "installs": 4,
+      "likes": 2,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 2042834295,
+      "updatedAt": 1788949333849
+    },
+    "tuantuan--jbbom": {
+      "installs": 20,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 2940188188,
+      "updatedAt": 1789002736355
+    },
+    "twilight-sparkle--wuye3790": {
+      "installs": 11,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 116993028,
+      "updatedAt": 1788338133851
+    },
+    "twinkle-twinkle--twinkletwinkle": {
+      "installs": 52,
+      "likes": 1,
+      "installs7d": 5,
+      "likes7d": 1,
+      "trendingScore": 1462176,
+      "dailyRank": 3073624495,
+      "updatedAt": 1789032590022
+    },
+    "usachi--jack": {
+      "installs": 156,
+      "likes": 2,
+      "installs7d": 10,
+      "likes7d": 0,
+      "trendingScore": 1678527,
+      "dailyRank": 2343110386,
+      "updatedAt": 1788961745022
+    },
+    "vertin--chenxin-dlut": {
+      "installs": 5,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 1915994545,
+      "updatedAt": 1787362838740
+    },
+    "violet--lazenca": {
+      "installs": 12,
+      "likes": 2,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 4072568675,
+      "updatedAt": 1787901205927
+    },
+    "wakaba-mutsumi--carambola": {
+      "installs": 40,
+      "likes": 0,
+      "installs7d": 4,
+      "likes7d": 0,
+      "trendingScore": 1126607,
+      "dailyRank": 1084358790,
+      "updatedAt": 1788951212490
+    },
+    "wally--wally025": {
+      "installs": 3,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 4183482509,
+      "updatedAt": 1785207546828
+    },
+    "warden-codex--jorge-cuevas90003": {
+      "installs": 1,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 406424866,
+      "updatedAt": 1787346932536
+    },
+    "wo-de-dao-dun--legeling": {
+      "installs": 1,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 3536104140,
+      "updatedAt": 1788947674120
+    },
+    "wucanrou--ch": {
+      "installs": 7,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3271906329,
+      "updatedAt": 1788378137068
+    },
+    "wukong--jorge-cuevas90003": {
+      "installs": 3,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 1047121444,
+      "updatedAt": 1788072900811
+    },
+    "xian-xiao-lu--qingyunagi": {
+      "installs": 9,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 755671064,
+      "updatedAt": 1787824802969
+    },
+    "xiang-an--legeling": {
+      "installs": 0,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 14899106,
+      "updatedAt": 0
+    },
+    "xiaoba-cat--jack": {
+      "installs": 63,
+      "likes": 2,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 3245456534,
+      "updatedAt": 1789031035932
+    },
+    "xiaoda--legeling": {
+      "installs": 2,
+      "likes": 0,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 605076437,
+      "updatedAt": 1789002267567
+    },
+    "xiaomai--brian-3": {
+      "installs": 30,
+      "likes": 1,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3068461150,
+      "updatedAt": 1788491722164
+    },
+    "xingxingren--legeling": {
+      "installs": 20,
+      "likes": 1,
+      "installs7d": 4,
+      "likes7d": 1,
+      "trendingScore": 1334551,
+      "dailyRank": 2855956764,
+      "updatedAt": 1788932574032
+    },
+    "yae-miko--legeling": {
+      "installs": 17,
+      "likes": 2,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 2421096545,
+      "updatedAt": 1788749401498
+    },
+    "yanlingji--jorge-cuevas90003": {
+      "installs": 3,
+      "likes": 0,
+      "installs7d": 2,
+      "likes7d": 0,
+      "trendingScore": 769029,
+      "dailyRank": 717043340,
+      "updatedAt": 1789033849385
+    },
+    "yao-true-self-hertz--legeling": {
+      "installs": 0,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3471386602,
+      "updatedAt": 0
+    },
+    "yier--gbn666": {
+      "installs": 42,
+      "likes": 1,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 1464113934,
+      "updatedAt": 1788554127487
+    },
+    "yoimiya--chenxin-dlut": {
+      "installs": 20,
+      "likes": 2,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 341069626,
+      "updatedAt": 1787908010345
+    },
+    "youmu--ai-generated": {
+      "installs": 9,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 2503381361,
+      "updatedAt": 1787898328665
+    },
+    "yuanbao--legeling": {
+      "installs": 2,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 997021800,
+      "updatedAt": 1788059898403
+    },
+    "yuanzai--gaming33": {
+      "installs": 9,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 3659491534,
+      "updatedAt": 1787824814703
+    },
+    "yume-boundary--andy-meow": {
+      "installs": 16,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 1936662454,
+      "updatedAt": 1787824818657
+    },
+    "yuzubou--keseras34938976": {
+      "installs": 12,
+      "likes": 0,
+      "installs7d": 0,
+      "likes7d": 0,
+      "trendingScore": 0,
+      "dailyRank": 1210100124,
+      "updatedAt": 1787824822571
     },
     "zani--chenxin-dlut": {
-      "installs": 0,
+      "installs": 10,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 3313939768,
-      "updatedAt": 0
+      "dailyRank": 1495278073,
+      "updatedAt": 1787903876325
     },
     "zenitsu-agatsuma--wangfan002": {
-      "installs": 0,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3404404697,
-      "updatedAt": 0
+      "installs": 42,
+      "likes": 1,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 1035431924,
+      "updatedAt": 1788579114276
     },
     "zero-two--mingqingmozhao": {
-      "installs": 0,
+      "installs": 13,
       "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 2240208900,
-      "updatedAt": 0
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 2185314245,
+      "updatedAt": 1788881117549
     },
     "zhengyin--noonwake": {
+      "installs": 10,
+      "likes": 1,
+      "installs7d": 1,
+      "likes7d": 0,
+      "trendingScore": 485203,
+      "dailyRank": 3475211830,
+      "updatedAt": 1789031611720
+    },
+    "zhuzhuxia--ryde-play": {
       "installs": 0,
       "likes": 0,
       "installs7d": 0,
+      "likes7d": 0,
       "trendingScore": 0,
-      "dailyRank": 1555426723,
+      "dailyRank": 32507757,
       "updatedAt": 0
     },
     "zichao-xiong--z-kzhang": {
-      "installs": 18,
-      "likes": 0,
-      "installs7d": 0,
-      "trendingScore": 0,
-      "dailyRank": 3368862447,
-      "updatedAt": 1784039126302
+      "installs": 56,
+      "likes": 1,
+      "installs7d": 3,
+      "likes7d": 0,
+      "trendingScore": 970406,
+      "dailyRank": 2668795570,
+      "updatedAt": 1789099354049
     }
   },
-  "generatedAt": 1785144087945,
+  "creators": {
+    "1sh1ro": {
+      "followers": 0
+    },
+    "1wphantom": {
+      "followers": 0
+    },
+    "a1wace-dev": {
+      "followers": 0
+    },
+    "ai-generated": {
+      "followers": 0
+    },
+    "alterhq": {
+      "followers": 0
+    },
+    "am": {
+      "followers": 0
+    },
+    "andiac": {
+      "followers": 0
+    },
+    "andy-meow": {
+      "followers": 0
+    },
+    "aquaxyy": {
+      "followers": 0
+    },
+    "ash-sw": {
+      "followers": 0
+    },
+    "ayanxu56-boop": {
+      "followers": 0
+    },
+    "aygunvarol": {
+      "followers": 0
+    },
+    "bendy": {
+      "followers": 0
+    },
+    "bpup": {
+      "followers": 0
+    },
+    "brian-3": {
+      "followers": 0
+    },
+    "carambola": {
+      "followers": 0
+    },
+    "carl312": {
+      "followers": 0
+    },
+    "ch": {
+      "followers": 0
+    },
+    "chenxin-dlut": {
+      "followers": 0
+    },
+    "chenyijing131-art": {
+      "followers": 0
+    },
+    "chochou": {
+      "followers": 0
+    },
+    "circus": {
+      "followers": 0
+    },
+    "clembuilds": {
+      "followers": 0
+    },
+    "cunuo": {
+      "followers": 0
+    },
+    "cxian0928-afk": {
+      "followers": 0
+    },
+    "d1a0y1bb": {
+      "followers": 0
+    },
+    "d2682787206-sys": {
+      "followers": 0
+    },
+    "dagwbl": {
+      "followers": 0
+    },
+    "danieloleary": {
+      "followers": 0
+    },
+    "dq02": {
+      "followers": 0
+    },
+    "dwdestiny": {
+      "followers": 0
+    },
+    "eigentom": {
+      "followers": 0
+    },
+    "emrecb": {
+      "followers": 0
+    },
+    "enclairfarron": {
+      "followers": 0
+    },
+    "eric-terminal": {
+      "followers": 0
+    },
+    "erlla": {
+      "followers": 0
+    },
+    "flamurmaliqi": {
+      "followers": 0
+    },
+    "flovst": {
+      "followers": 0
+    },
+    "foggy-whale": {
+      "followers": 0
+    },
+    "froggie": {
+      "followers": 0
+    },
+    "gaming33": {
+      "followers": 0
+    },
+    "gbn666": {
+      "followers": 0
+    },
+    "gg0805": {
+      "followers": 0
+    },
+    "giiilberto-nm": {
+      "followers": 0
+    },
+    "god-wu": {
+      "followers": 0
+    },
+    "gravity": {
+      "followers": 0
+    },
+    "haipengzzz": {
+      "followers": 0
+    },
+    "hoody": {
+      "followers": 0
+    },
+    "hyoni1129": {
+      "followers": 0
+    },
+    "icarus-alpha": {
+      "followers": 0
+    },
+    "initiatione": {
+      "followers": 0
+    },
+    "itjesse": {
+      "followers": 0
+    },
+    "jack": {
+      "followers": 0
+    },
+    "jarvis-2": {
+      "followers": 0
+    },
+    "jason-bai": {
+      "followers": 0
+    },
+    "jbbom": {
+      "followers": 0
+    },
+    "jiushu": {
+      "followers": 0
+    },
+    "jordsshmords1": {
+      "followers": 0
+    },
+    "jorge-cuevas90003": {
+      "followers": 0
+    },
+    "julianhuang": {
+      "followers": 0
+    },
+    "kajdrak2": {
+      "followers": 0
+    },
+    "kasyan1337": {
+      "followers": 0
+    },
+    "kazecreator": {
+      "followers": 0
+    },
+    "kelleszzz": {
+      "followers": 0
+    },
+    "keseras34938976": {
+      "followers": 0
+    },
+    "killyer": {
+      "followers": 0
+    },
+    "klmklmnb": {
+      "followers": 0
+    },
+    "klubbyte": {
+      "followers": 0
+    },
+    "korn": {
+      "followers": 0
+    },
+    "kurisu": {
+      "followers": 0
+    },
+    "kuroneko-night": {
+      "followers": 0
+    },
+    "l1": {
+      "followers": 0
+    },
+    "lazenca": {
+      "followers": 0
+    },
+    "ldl1234": {
+      "followers": 0
+    },
+    "legeling": {
+      "followers": 1
+    },
+    "lemon-z": {
+      "followers": 0
+    },
+    "libertis": {
+      "followers": 0
+    },
+    "lilokhalikfa": {
+      "followers": 0
+    },
+    "lingxiaotian": {
+      "followers": 0
+    },
+    "lllucasxu": {
+      "followers": 0
+    },
+    "lsmd23": {
+      "followers": 0
+    },
+    "ltmcliao-cmyk": {
+      "followers": 0
+    },
+    "lttxzmj": {
+      "followers": 0
+    },
+    "m1gr4ine": {
+      "followers": 0
+    },
+    "makriman": {
+      "followers": 0
+    },
+    "maxg24": {
+      "followers": 0
+    },
+    "metro186": {
+      "followers": 0
+    },
+    "mingdong": {
+      "followers": 0
+    },
+    "mingqingmozhao": {
+      "followers": 0
+    },
+    "mistyshen": {
+      "followers": 0
+    },
+    "natewanggg": {
+      "followers": 0
+    },
+    "netizenxuan": {
+      "followers": 0
+    },
+    "neve": {
+      "followers": 0
+    },
+    "noonwake": {
+      "followers": 0
+    },
+    "nyakku-shigure": {
+      "followers": 0
+    },
+    "octane0411": {
+      "followers": 0
+    },
+    "opask": {
+      "followers": 0
+    },
+    "oytyo": {
+      "followers": 0
+    },
+    "petdex-zhenyou-ling": {
+      "followers": 0
+    },
+    "ping": {
+      "followers": 0
+    },
+    "qimi": {
+      "followers": 0
+    },
+    "qingyunagi": {
+      "followers": 0
+    },
+    "qunboo": {
+      "followers": 0
+    },
+    "qzl1-stack": {
+      "followers": 0
+    },
+    "rank": {
+      "followers": 0
+    },
+    "rkwap": {
+      "followers": 0
+    },
+    "rookie-09": {
+      "followers": 0
+    },
+    "rotl24": {
+      "followers": 0
+    },
+    "ryde-play": {
+      "followers": 0
+    },
+    "sally-entr": {
+      "followers": 0
+    },
+    "sandytruant": {
+      "followers": 0
+    },
+    "sehjk": {
+      "followers": 0
+    },
+    "seymour": {
+      "followers": 0
+    },
+    "siiverash": {
+      "followers": 0
+    },
+    "somnusochi": {
+      "followers": 0
+    },
+    "soraberu": {
+      "followers": 0
+    },
+    "sou2c1": {
+      "followers": 0
+    },
+    "spacebody": {
+      "followers": 0
+    },
+    "tairazuma": {
+      "followers": 0
+    },
+    "tat": {
+      "followers": 0
+    },
+    "terry878": {
+      "followers": 0
+    },
+    "thankyou-cheems": {
+      "followers": 0
+    },
+    "twinkletwinkle": {
+      "followers": 0
+    },
+    "untko": {
+      "followers": 0
+    },
+    "vaevie": {
+      "followers": 0
+    },
+    "vanfff": {
+      "followers": 0
+    },
+    "wally025": {
+      "followers": 0
+    },
+    "wangfan002": {
+      "followers": 0
+    },
+    "wuye3790": {
+      "followers": 0
+    },
+    "wxy": {
+      "followers": 0
+    },
+    "xchangee": {
+      "followers": 0
+    },
+    "xiangking": {
+      "followers": 0
+    },
+    "xiangzi529": {
+      "followers": 0
+    },
+    "xueshi": {
+      "followers": 0
+    },
+    "xxhh0822": {
+      "followers": 0
+    },
+    "yau-427": {
+      "followers": 0
+    },
+    "yena": {
+      "followers": 0
+    },
+    "yjt0416": {
+      "followers": 0
+    },
+    "yogazz": {
+      "followers": 0
+    },
+    "yurcek": {
+      "followers": 0
+    },
+    "yuu-m": {
+      "followers": 0
+    },
+    "yuyuabc1": {
+      "followers": 0
+    },
+    "z-kzhang": {
+      "followers": 0
+    },
+    "z19t": {
+      "followers": 0
+    },
+    "zaytsevzy": {
+      "followers": 0
+    },
+    "zeyuwang1999": {
+      "followers": 0
+    },
+    "zihualiu1997": {
+      "followers": 0
+    },
+    "zpzjzj": {
+      "followers": 0
+    },
+    "zuochunjie": {
+      "followers": 1
+    }
+  },
+  "requests": {
+    "91": {
+      "supporters": 0,
+      "updatedAt": 1785985518000
+    },
+    "101": {
+      "supporters": 0,
+      "updatedAt": 1786155152000
+    },
+    "110": {
+      "supporters": 4,
+      "updatedAt": 1787953121141
+    },
+    "112": {
+      "supporters": 1,
+      "updatedAt": 1787909945236
+    },
+    "114": {
+      "supporters": 3,
+      "updatedAt": 1787710855683
+    },
+    "115": {
+      "supporters": 2,
+      "updatedAt": 1788161320000
+    },
+    "117": {
+      "supporters": 2,
+      "updatedAt": 1786719674928
+    },
+    "119": {
+      "supporters": 0,
+      "updatedAt": 1786536174000
+    },
+    "129": {
+      "supporters": 4,
+      "updatedAt": 1789039401966
+    },
+    "130": {
+      "supporters": 1,
+      "updatedAt": 1788939247826
+    },
+    "142": {
+      "supporters": 10,
+      "updatedAt": 1788782427792
+    },
+    "143": {
+      "supporters": 9,
+      "updatedAt": 1789093729101
+    },
+    "145": {
+      "supporters": 0,
+      "updatedAt": 1787731718000
+    },
+    "146": {
+      "supporters": 0,
+      "updatedAt": 1787801043000
+    },
+    "148": {
+      "supporters": 0,
+      "updatedAt": 1787882289000
+    },
+    "149": {
+      "supporters": 0,
+      "updatedAt": 1787888625000
+    },
+    "152": {
+      "supporters": 0,
+      "updatedAt": 1788110733000
+    },
+    "153": {
+      "supporters": 0,
+      "updatedAt": 1788157213000
+    },
+    "154": {
+      "supporters": 0,
+      "updatedAt": 1788179853000
+    },
+    "156": {
+      "supporters": 0,
+      "updatedAt": 1788343527000
+    },
+    "157": {
+      "supporters": 0,
+      "updatedAt": 1788343529000
+    },
+    "159": {
+      "supporters": 0,
+      "updatedAt": 1788513479000
+    },
+    "160": {
+      "supporters": 0,
+      "updatedAt": 1788598314000
+    },
+    "169": {
+      "supporters": 0,
+      "updatedAt": 1788951452000
+    },
+    "171": {
+      "supporters": 0,
+      "updatedAt": 1789025718000
+    }
+  },
+  "generatedAt": 1789100392323,
   "windowDays": 7
 }
