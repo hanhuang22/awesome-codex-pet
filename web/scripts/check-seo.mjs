@@ -56,8 +56,13 @@ function checkPage(filePath, html) {
   );
   requireMatch(
     html,
-    new RegExp(`<html lang="${expectedLanguage}">`, "i"),
+    new RegExp(`<html[^>]*lang="${expectedLanguage}"`, "i"),
     `${outputPath}: expected html lang ${expectedLanguage}`,
+  );
+  requireMatch(
+    html,
+    /<html[^>]*translate="no"/i,
+    `${outputPath}: browser translation must be disabled to protect hydration`,
   );
   const keywordContent = html.match(
     /<meta name="keywords" content="([^"]+)"/,
