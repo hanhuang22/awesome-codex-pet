@@ -1,5 +1,137 @@
 [
   {
+    "number": 195,
+    "character": "Point fox",
+    "characterDetails": "Point fox",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.webp"
+    ],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-16T19:46:03Z",
+    "updatedAt": "2026-09-16T19:46:03Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/195"
+  },
+  {
+    "number": 182,
+    "character": "Potato",
+    "characterDetails": "Potato",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.png"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.webp"
+    ],
+    "visualDirection": "POTATO",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-13T08:26:06Z",
+    "updatedAt": "2026-09-16T09:09:07Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/182"
+  },
+  {
+    "number": 193,
+    "character": "ELBER",
+    "characterDetails": "ELBER",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/6e47754211249580881f4aa379e254eaceeb825aa85ef8ea0a114b4d38efbe91.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/6e47754211249580881f4aa379e254eaceeb825aa85ef8ea0a114b4d38efbe91.png"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/6e47754211249580881f4aa379e254eaceeb825aa85ef8ea0a114b4d38efbe91.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/6e47754211249580881f4aa379e254eaceeb825aa85ef8ea0a114b4d38efbe91.webp"
+    ],
+    "visualDirection": "E.L.B.E.R.R. (Epistemic Logic-Based Engine for Recursive Reasoning) from the YouTube series “I Made a Self-Aware Robot” by Lights Are Off. A tall, extremely thin experimental humanoid robot with exposed mechanical parts, wires, cables and articulated limbs. It has a smooth pale oval head, two enormous glossy black eyes and an unsettling wide toothy grin. Keep its recognizable original appearance and creepy robotic design. Its personality is intelligent, curious, observant, mischievous and slightly unsettling, but it behaves like a strange AI pet. It likes watching what I do, exploring its environment, silently observing, making unexpected movements and interacting with objects around it. It should feel like a self-aware experimental robot that somehow became my personal companion. Dark cinematic workshop atmosphere, realistic mechanical details, mysterious and eerie but not aggressive.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-16T08:29:14Z",
+    "updatedAt": "2026-09-16T08:29:14Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/193"
+  },
+  {
     "number": 191,
     "character": "小熊虫",
     "characterDetails": "小熊虫（申请人使用的称呼，正式角色名尚未核实）。希望以参考图中的形象制作一只 Codex 宠物。",
@@ -162,50 +294,6 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/185"
-  },
-  {
-    "number": 182,
-    "character": "Potato",
-    "characterDetails": "Potato",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.png",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.png"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.png"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/63097020b164e821d7d4cd660acd44833f7b79bf680b375bb305742df0a6f783.webp"
-    ],
-    "visualDirection": "POTATO",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-09-13T08:26:06Z",
-    "updatedAt": "2026-09-13T10:46:32Z",
-    "closedAt": null,
-    "comments": 1,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/182"
   },
   {
     "number": 181,
@@ -1344,6 +1432,46 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/91"
+  },
+  {
+    "number": 192,
+    "character": "ELBER",
+    "characterDetails": "ELBER",
+    "franchise": "LIGHTS ARE OFF (YouTube)",
+    "category": "other",
+    "version": "v2",
+    "requestType": "",
+    "referenceStatus": "",
+    "references": "",
+    "referenceUrls": [],
+    "referenceImages": [
+      "https://github.com/user-attachments/assets/6a54e69d-8191-430b-9af5-128a2e7e238c"
+    ],
+    "referenceThumbnails": [],
+    "visualDirection": "",
+    "nameLanguages": "",
+    "attribution": "",
+    "duplicateCheck": "",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "albertepshtein5-beep",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/277777840?v=4",
+      "url": "https://github.com/albertepshtein5-beep"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-16T08:27:19Z",
+    "updatedAt": "2026-09-16T08:30:03Z",
+    "closedAt": "2026-09-16T08:30:03Z",
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/192"
   },
   {
     "number": 83,
