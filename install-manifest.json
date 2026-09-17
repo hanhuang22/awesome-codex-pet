@@ -387,6 +387,20 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "riceball-maid--qishichuan": {
+      "name": "DeepSeek钢盆饭团",
+      "localizedNames": {
+        "en": "DeepSeek Steel-Bowl Riceball",
+        "zh": "DeepSeek钢盆饭团"
+      },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "294d77a93f0143f4d222aec45abf8d80a13422a6ae7df5a69f45992f71d2685d",
+      "petJsonBytes": 460,
+      "spritesheetSha256": "9ff7cc2f2b4e8695bde4d50df436cb7d8d050fb6eb9251f525161dba96178915",
+      "spritesheetBytes": 2654594,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "desk-otter--zihualiu1997": {
       "name": "Desk Otter",
       "spriteVersionNumber": 1,
