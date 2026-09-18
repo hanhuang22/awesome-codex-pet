@@ -1338,6 +1338,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "point-fox--legeling": {
+      "name": "Point Fox",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "388acec19f4429e77bde96c679ce76f27693a4ae8aa29c1c5747ade58313f6be",
+      "petJsonBytes": 245,
+      "spritesheetSha256": "89b30a473d10a244e801d0a75275da51529dfbe1e8124640254400d591c02422",
+      "spritesheetBytes": 2472654,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "raiden-shogun--lingxiaotian": {
       "name": "Raiden Shogun",
       "localizedNames": { "en": "Raiden Shogun", "zh": "雷电将军" },

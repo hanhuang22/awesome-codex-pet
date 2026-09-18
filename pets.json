@@ -1587,6 +1587,19 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "point-fox--legeling",
+    "name": "Point Fox",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Animals",
+    "canonical_key": "animal/point-fox",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A cheerful orange-and-white pixel fox with oversized pointed ears, a curled fluffy white-tipped tail, expressive task animations, and 16 clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "raiden-shogun--lingxiaotian",
     "name": "Raiden Shogun",
     "localized_names": { "en": "Raiden Shogun", "zh": "雷电将军" },
