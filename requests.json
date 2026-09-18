@@ -1,49 +1,5 @@
 [
   {
-    "number": 195,
-    "character": "Point fox",
-    "characterDetails": "Point fox",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.jpg",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.jpg"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.jpg"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.webp"
-    ],
-    "visualDirection": "Let the community maker decide.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-09-16T19:46:03Z",
-    "updatedAt": "2026-09-16T19:46:03Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/195"
-  },
-  {
     "number": 182,
     "character": "Potato",
     "characterDetails": "Potato",
@@ -1432,6 +1388,50 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/91"
+  },
+  {
+    "number": 195,
+    "character": "Point fox",
+    "characterDetails": "Point fox",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/43c7c2bdaf404cce3f1d3bb1494ed9a3a9d93787622fac36a8c342a57bcc31f4.webp"
+    ],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: completed",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-16T19:46:03Z",
+    "updatedAt": "2026-09-18T08:02:08Z",
+    "closedAt": "2026-09-18T08:02:08Z",
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/195"
   },
   {
     "number": 192,
