@@ -44,6 +44,8 @@ jobs:
 
       - name: Validate pull request payload
         if: github.event_name == 'pull_request'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
         run: |
           npm run validate:pr
           npm run lint
@@ -169,7 +171,7 @@ jobs:
     secrets: inherit
 
   deploy-web:
-    if: github.event_name == 'push' && needs.previews.outputs.generated-commit != 'true'
+    if: github.event_name == 'push'
     needs: previews
     runs-on: ubuntu-latest
     env:
