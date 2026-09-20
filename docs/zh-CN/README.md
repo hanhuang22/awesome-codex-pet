@@ -314,7 +314,7 @@ npx --yes @legeling/codex-pet list
 <li><a href="../../pets/salary-cat--zuochunjie">月薪喵</a> · 作者 <a href="https://github.com/Zuochunjie">@Zuochunjie</a> · v2</li>
 <li><a href="../../pets/shaun--ryde-play">小羊肖恩</a> · 作者 <a href="https://github.com/RYDE-PLAY">@RYDE-PLAY</a> · v2</li>
 <li><a href="../../pets/sunny-retriever--legeling">暖阳金毛</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
-<li><a href="../../pets/teddy--danieloleary">Teddy</a> · 作者 <a href="https://github.com/danieloleary">@danieloleary</a> · v1</li>
+<li><a href="../../pets/teddy--danieloleary">Teddy 5.0</a> · 作者 <a href="https://github.com/danieloleary">@danieloleary</a> · v2</li>
 <li><a href="../../pets/tian-hua-hua--d1a0y1bb">Tian Hua Hua</a> · 作者 <a href="https://github.com/D1a0y1bb">@D1a0y1bb</a> · v1</li>
 <li><a href="../../pets/usachi--jack">乌萨奇</a> · 作者 @jack · v1</li>
 <li><a href="../../pets/yuanbao--legeling">元宝</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>

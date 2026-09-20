@@ -1693,14 +1693,14 @@
       "spritesheetHeight": 1872
     },
     "teddy--danieloleary": {
-      "name": "Teddy",
-      "spriteVersionNumber": 1,
-      "petJsonSha256": "3d60b22ea25e946a7c4bc93a887a61559222631cd7bb7502c88e76e9bb1897cd",
-      "petJsonBytes": 253,
-      "spritesheetSha256": "c9e0da13b6bdeed6ffefecebf0633621c90aa042ca02b3b7224b62806642304a",
-      "spritesheetBytes": 1214414,
+      "name": "Teddy 5.0",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "2bb4c97b154df177a5a861192c4c6be3d9d98b50c092dae2e1a9f5619d5c8ba4",
+      "petJsonBytes": 273,
+      "spritesheetSha256": "204197ee622933d46df0aaf175b2378776dc24842ae4d0172feb3bef3422f973",
+      "spritesheetBytes": 2303030,
       "spritesheetWidth": 1536,
-      "spritesheetHeight": 1872
+      "spritesheetHeight": 2288
     },
     "templar-knight--jorge-cuevas90003": {
       "name": "Templar Knight",

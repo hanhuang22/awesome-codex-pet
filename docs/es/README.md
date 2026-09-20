@@ -280,7 +280,7 @@ npx @legeling/codex-pet
 <li><a href="../../pets/salary-cat--zuochunjie">SalaryCat</a> · por <a href="https://github.com/Zuochunjie">@Zuochunjie</a> · v2</li>
 <li><a href="../../pets/shaun--ryde-play">Shaun the Sheep</a> · por <a href="https://github.com/RYDE-PLAY">@RYDE-PLAY</a> · v2</li>
 <li><a href="../../pets/sunny-retriever--legeling">Sunny Retriever</a> · por <a href="https://github.com/legeling">@legeling</a> · v2</li>
-<li><a href="../../pets/teddy--danieloleary">Teddy</a> · por <a href="https://github.com/danieloleary">@danieloleary</a> · v1</li>
+<li><a href="../../pets/teddy--danieloleary">Teddy 5.0</a> · por <a href="https://github.com/danieloleary">@danieloleary</a> · v2</li>
 <li><a href="../../pets/tian-hua-hua--d1a0y1bb">Tian Hua Hua</a> · por <a href="https://github.com/D1a0y1bb">@D1a0y1bb</a> · v1</li>
 <li><a href="../../pets/usachi--jack">乌萨奇</a> · por @jack · v1</li>
 <li><a href="../../pets/yuanbao--legeling">元宝</a> · por <a href="https://github.com/legeling">@legeling</a> · v2</li>

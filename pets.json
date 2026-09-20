@@ -2009,14 +2009,16 @@
   },
   {
     "slug": "teddy--danieloleary",
-    "name": "Teddy",
+    "name": "Teddy 5.0",
     "author": "Daniel O'Leary",
     "author_handle": "danieloleary",
     "author_url": "https://github.com/danieloleary",
     "primary_category": "Animals",
+    "canonical_key": "original/danieloleary/teddy",
+    "variant_note": "Teddy 5.0 updates the existing author package with anime-inspired eyes, new animation artwork, and the Codex v2 directional atlas.",
     "collections": ["animal-companions"],
     "license": "Original; permission granted for inclusion in the awesome-codex-pet gallery",
-    "spriteVersionNumber": 1
+    "spriteVersionNumber": 2
   },
   {
     "slug": "templar-knight--jorge-cuevas90003",
