@@ -1,5 +1,49 @@
 [
   {
+    "number": 200,
+    "character": "哥哥",
+    "characterDetails": "哥哥",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/855c834a103e8e3780c0ca4cbdf3e98b687353ed8f60792b88f12836d49fb1c3.png",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/855c834a103e8e3780c0ca4cbdf3e98b687353ed8f60792b88f12836d49fb1c3.png"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/855c834a103e8e3780c0ca4cbdf3e98b687353ed8f60792b88f12836d49fb1c3.png"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/855c834a103e8e3780c0ca4cbdf3e98b687353ed8f60792b88f12836d49fb1c3.webp"
+    ],
+    "visualDirection": "打篮球",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-20T06:55:34Z",
+    "updatedAt": "2026-09-20T06:55:34Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/200"
+  },
+  {
     "number": 182,
     "character": "Potato",
     "characterDetails": "Potato",
