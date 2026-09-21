@@ -1997,6 +1997,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "ye-shunguang-bangboo--huanghan": {
+      "name": "叶瞬光邦布",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "6d30a5e1d4fe86d2f5f47b6b3e69d315d2f068ab7f0c3fc21a3be6ffa229357f",
+      "petJsonBytes": 198,
+      "spritesheetSha256": "02a8bc5c84981addfc5cf1360e20f7ec9f4061c74171967223845592e5084188",
+      "spritesheetBytes": 2792074,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "dai-dai-nai-you--1wphantom": {
       "name": "呆呆奶油",
       "spriteVersionNumber": 2,

@@ -2374,6 +2374,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "ye-shunguang-bangboo--huanghan",
+    "name": "叶瞬光邦布",
+    "author": "huanghan",
+    "author_handle": "hanhuang22",
+    "author_url": "https://github.com/hanhuang22",
+    "primary_category": "Game Characters",
+    "canonical_key": "zenless-zone-zero/ye-shunguang-bangboo",
+    "variant_note": "Independently generated v2 fan-concept edition with nine standard animation rows and 16 look directions.",
+    "collections": ["zenless-zone-zero"],
+    "license": "Non-commercial use only. Zenless Zone Zero and related intellectual property belong to miHoYo/HoYoverse.",
+    "description": "根本没有这种邦布！",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "dai-dai-nai-you--1wphantom",
     "name": "呆呆奶油",
     "author": "1wphantom",
